@@ -1,0 +1,2546 @@
+
+
+Owner’s Guide
+ Robot Vacuum & Mop
+Robot aspirateur et laveur
+Robot aspirador y trapeador
+j7+
+Guide du propriétaire
+Guía del usuario
+
+EN
+This appliance can be used by children aged from 8 years and above and persons with 
+reduced physical, sensory or mental capabilities or lack of experience and knowledge if 
+they have been given supervision or instruction concerning use of the appliance in a safe 
+way and understand the hazards involved. Children shall not play with the appliance. 
+Cleaning and user maintenance shall not be made by children without supervision. 
+Safety Information
+Important Safety Information
+SAVE THESE INSTRUCTIONS
+WARNING: When using an electrical appliance, basic precautions should always be followed, 
+including the following:
+READ ALL INSTRUCTIONS
+WARNING: To reduce the risk of injury or damage, read and follow the safety precautions 
+when setting up, using and maintaining your robot.
+This owner’s guide includes information for Regulatory Model(s):  
+Robot: RCA-Y1 | Dock: ADG-N1 | Battery: ABL-F | Radio Module: AXG-Y1
+This is the safety alert symbol. It is used to alert you to potential physical injury hazards.   
+Obey all safety messages that follow this symbol to avoid possible injury or death.
+Risk of electric shockClass II equipmentRated power output, d.c.
+ 
+Read operator’s 
+manual
+General symbol for 
+recycling
+Risk of fireFor indoor use onlyRated power input, d.c.
+Keep out of reach 
+of children
+Separate Supply Unit
+CautionRated power input, a.c.
+
+EN
+WARNING: Indicates a hazardous situation that, if not avoided, could 
+result in death or serious injury. 
+CAUTION: Indicates a hazardous situation that, if not avoided, could 
+result in minor or moderate injury. 
+NOTICE: Indicates a hazardous situation that, if not avoided, could result 
+in property damage.
+GENERAL
+WARNING 
+• Your robot comes with a region approved power supply cord and is 
+designed to be plugged into a standard household AC power outlet 
+only. Do not use any other power supply cord. For replacement cords, 
+please contact Customer Care to ensure proper selection of country 
+specific power supply cord.
+• Do not submerge your robot in water.
+• Do not open your robot except as instructed to install or replace the 
+battery or to perform required maintenance. Do not open the integrated 
+dock-charger known as Home Base or Clean Base. There are no user 
+serviceable parts inside. Refere servicing to qualified service personnel.
+• Risk of electric shock, use indoors in dry location only.
+• Do not handle your robot or charging station with wet hands. 
+• Do not use unauthorized chargers. Use of an unauthorized charger 
+could cause the battery to generate heat, smoke, catch fire, or explode.
+• Your robot is not a toy. Small children and pets should be supervised 
+when your robot is operating. Do not sit or stand on your robot or dock.
+• Store and operate your robot in room temperature environments only.
+• If the room to be cleaned contains a balcony, a physical barrier should 
+be used to prevent access to the balcony and ensure safe operation.
+• Clean the (edge detection or cliff) sensors lens and covers on the 
+bottom of your robot for dust and dirt buildup as needed.
+• If the room to be cleaned contains equipment, such as a stove, fan, or 
+humidifier, remove the equipment before operation. There is a risk of 
+injury, accident or malfunction if the robot comes in contact and pushes 
+the equipment.
+• Do not use the mopping pad plate as a handle to lift or move the robot.
+• Be aware that floors may be slippery after wet cleaning with your robot.
+• Do not operate the robot in areas with exposed electrical outlets in the floor.
+CAUTION  
+• Do not use this device to pick up sharp objects, glass, or anything that is 
+burning or smoking.
+• Be aware that the robot moves on its own. Take care when walking in the 
+area that the robot is operating in to avoid stepping on it.
+•  If the device passes over a power cord and drags it, there is a chance an 
+object could be pulled off a table or shelf. Before using this device, pick 
+up objects like clothing, loose papers, pull cords for blinds or curtains, 
+power cords, and any fragile objects. 
+• Perform the required maintenance per the owner’s guide to ensure safe 
+operation of the robot and charging station.
+• If the robot is operating on a floor with stairs, please remove any clutter 
+from the top step.
+ 
+• Do not allow your robot or charging station to become wet.
+• Do not place anything on top of your robot.
+•  The failure to maintain cleanliness of charger contacts could result in 
+loss of ability for the robot to charge the battery and the contacts to 
+become hot to the touch.
+• Before running your robot on hard floors, please test your robot on a small 
+section of the hard floor to ensure that it is compatible. Using your robot 
+on a hard floor that is not compatible could result in damage to your floor. 
+Contact your hard floor manufacturer with questions on compatibility.
+• Before running your robot on carpets or rugs, ensure that the carpets 
+or rugs are compatible with vacuums using bars or brushes. Using your 
+robot on a carpet or rug that is not compatible could result in damage 
+to your carpet or rug. Contact your carpet or rug manufacturer with 
+questions on compatibility.
+BATTERY
+WARNING  
+• Do not open, crush, heat above 176°F: 80°C, or incinerate. Follow the owner’s 
+guide instructions for proper use, maintenance, handling, and disposal.
+• Do not short-circuit the battery by allowing metal objects to contact 
+battery terminals or immerse in liquid. Do not subject batteries to 
+mechanical shock.
+• Lithium ion batteries and products that contain lithium ion batteries are 
+subject to stringent transportation regulations. If you need to ship this 
+product (with the battery included) for service, travel or any other reason, 
+you must see the Troubleshooting section of your owner’s guide or contact 
+customer care for shipping instructions.
+• Periodically inspect the battery pack for any sign of damage or leakage. 
+Do not charge damaged or leaking battery packs, do not allow the liquid 
+to come in contact with skin or eyes. If contact has been made, wash the 
+affected area with copious amounts of water and seek medical advice. 
+Place the battery in a sealed plastic bag and recycle or dispose of safely 
+according to local environmental regulations, or return it to your local 
+authorized iRobot Service Center for disposal.
+• Keep battery pack clean and dry. Wipe the cell or battery terminals with a 
+clean dry cloth if they become dirty.
+CAUTION  
+• Battery usage by children should be supervised. Seek medical advice 
+immediately if a cell or a battery has been swallowed.
+• The battery pack must be removed from the robot before recycling or 
+disposal.
+• For best results, only use the iRobot Lithium Ion Battery that comes with 
+the robot. 
+• Do not use non-rechargeable batteries. Use only the rechargeable battery 
+supplied with the product. For replacement, purchase identical iRobot 
+battery or contact iRobot Customer Care for alternative battery options.
+• Always charge and remove the battery from your robot and accessories 
+before long-term storage.
+CLEANING SOLUTION
+WARNING  
+• Household cleaning products are safe when used and stored according 
+to the instructions on the label. Always be sure to read and follow the 
+directions carefully.
+
+EN
+battery terminals or immerse in liquid. Do not subject batteries to 
+mechanical shock.
+• Lithium ion batteries and products that contain lithium ion batteries are 
+subject to stringent transportation regulations. If you need to ship this 
+product (with the battery included) for service, travel or any other reason, 
+you must see the Troubleshooting section of your owner’s guide or contact 
+customer care for shipping instructions.
+• Periodically inspect the battery pack for any sign of damage or leakage. 
+Do not charge damaged or leaking battery packs, do not allow the liquid 
+to come in contact with skin or eyes. If contact has been made, wash the 
+affected area with copious amounts of water and seek medical advice. 
+Place the battery in a sealed plastic bag and recycle or dispose of safely 
+according to local environmental regulations, or return it to your local 
+authorized iRobot Service Center for disposal.
+• Keep battery pack clean and dry. Wipe the cell or battery terminals with a 
+clean dry cloth if they become dirty.
+CAUTION  
+• Battery usage by children should be supervised. Seek medical advice 
+immediately if a cell or a battery has been swallowed.
+• The battery pack must be removed from the robot before recycling or 
+disposal.
+• For best results, only use the iRobot Lithium Ion Battery that comes with 
+the robot. 
+• Do not use non-rechargeable batteries. Use only the rechargeable battery 
+supplied with the product. For replacement, purchase identical iRobot 
+battery or contact iRobot Customer Care for alternative battery options.
+• Always charge and remove the battery from your robot and accessories 
+before long-term storage.
+CLEANING SOLUTION
+WARNING  
+• Household cleaning products are safe when used and stored according 
+to the instructions on the label. Always be sure to read and follow the 
+directions carefully.
+• Only use authorized cleaning solution found on answers.irobot.com/s/
+roomba-combo-cleanser.
+• For cleaning solution warnings, please refer to outer box and solution 
+bottle
+Keep away from 
+children
+Rinse hands after use
+Keep away from eyes. 
+If product gets into 
+eyes rinse thoroughly 
+with water
+AUTOMATIC DIRT DISPOSAL
+WARNING 
+• Do not use with damaged cord or plug. If appliance is not working as 
+it should, has been dropped, damaged, left outdoors, or dropped into 
+water, return it to a service center. 
+• Always disconnect your robot from the dirt disposal before cleaning or 
+maintaining it.
+• Charge your robot only with the power supply provided. The provided 
+power supply delivers safety extra low voltage corresponding to the 
+input marking on the robot which is required to maintain safe operation.
+• Do not put any object into openings. Do not use with any opening 
+blocked; keep free of dust, lint, hair, and anything that may reduce air 
+flow. 
+• To prevent the risk of your robot falling downstairs, ensure that the 
+charging station is placed at least 4 feet (1.2 meters) away from stairs.
+• To properly maintain your dirt disposal, do not place foreign objects in 
+your Automatic Dirt Disposal Port and ensure it is clear of debris.
+• In order to avoid a hazard due to inadvertent resetting of the thermal 
+cut-out, this appliance must not be supplied through an external 
+switching device, such as a timer, or connected to a circuit that is 
+regularly switched on and off by the utility.
+• Do not pour any liquids into the device and do not immerse in water.
+• Do not allow liquids to get on or into the dirt disposal.
+• Do not use outdoors or on wet surfaces.  
+
+EN
+• Do not allow to be used as a toy. Close attention is necessary when used 
+by or near children.
+• In order to avoid a hazard due to inadvertent resetting of the thermal 
+cut-out, this appliance must not be supplied through an external 
+switching device, such as a timer, or connected to a circuit that is 
+regularly switched on and off by the utility.
+• Use only as described in this manual.
+• To reduce the risk of electric shock, unplug your dirt disposal before 
+cleaning.
+• Keep the dirt disposal and power cord away from heated surfaces.
+CAUTION  
+• Only charge the battery that came with your robot. Other types of 
+batteries may burst causing injury. Always contact iRobot Customer 
+Care for the correct replacement of your battery.
+ 
+• Product may not be used with any type of power converter. Use of power 
+converters will immediately void the warranty.
+• If you live in an area prone to electrical storms, it is recommended that 
+you use additional surge protection. Your dirt disposal may be protected 
+with a surge protector in the event of severe electrical storms.
+• Do not use without dust bag and/or filters in place.or rugs are 
+compatible with vacuums using bars or brushes. Using your robot on 
+a carpet or rug that is not compatible could result in damage to your 
+carpet or rug. Contact your carpet or rug manufacturer with questions 
+on compatibility.
+This symbol on the battery indicates that the battery must not be disposed 
+of with unsorted common municipal waste. As the end-user, it is your 
+responsibility to dispose of the end-of-life battery in your appliance in an 
+environmentally sensitive manner as follows:
+(1) Returning it to the distributor/dealer from whom you purchased the 
+product or
+(2) Depositing it at a designated collection point
+The separate collection and recycling of end-of-life batteries at the time 
+of disposal will help to conserve natural resources and to ensure that it is 
+recycled in a manner that protects human health and the environment. 
+For more information, please contact your local recycling office or the 
+dealer from whom you originally purchased the product. Failure to properly 
+dispose of end-of-life batteries may result in negative potential effects on 
+the environment and human health due to the substances in the batteries 
+and accumulators. 
+   For battery recycling go to call2recycle.org or call 1-800-822-8837
+
+EN
+ Roomba Combo j7+ Owner’s Guide        1
+About your Roomba Combo™ Robot Vacuum & Mop
+BinTop View
+Bottom View
+Faceplate
+Mopping Pad Plate
+Wall Follow Sensor
+Camera
+Clean Button
+Filter
+Tank Cap
+Water Tank
+Dust Bin
+Bin Release 
+Button
+Charging 
+Contacts
+Caster Wheel
+Cliff Sensor
+Floor Sensor
+Cliff Sensors
+Edge-Sweeping 
+Brush
+Multi-Surface 
+Brushes
+Floor Sensors
+Brush Frame 
+Release Tab 
+Brush Caps
+Bin
+Floor Tracking 
+Sensor
+Cliff Sensors
+Cliff Sensor
+
+2        For more information, visit global.irobot.com
+EN
+About Your Clean Base™ Automatic Dirt Disposal
+Top View
+Front View
+Canister Lid
+Visual Docking 
+Target
+Exhaust Vent
+Cord Wrap
+Debris Evacuation 
+Port
+Bag Guide Rails
+Debris Evacuation 
+Tube
+Debris Evacuation 
+Tube
+Bag Storage 
+Compartment
+Blow Cover
+Bag Presence Sensor 
+Back View
+Bottom View
+Pull Tab
+LED Indicator
+Wheel Wells
+Charging 
+Contacts
+
+EN
+ Roomba Combo j7+ Owner’s Guide        3
+Download the iRobot Home App and Connect to Wi-Fi®
+• Follow step-by-step instructions to set up your Roomba Combo™.
+• Set up PrecisionVision Navigation to avoid obstacles in real time.
+•  Set an automatic cleaning schedule and customize cleaning preferences.
+•  Create smart maps to tell your robot where, when and how to clean.
+Charging
+CLEAN
+•  Place the robot on the charging station to activate the battery.
+• The robot uses a small amount of power whenever it is on the charging 
+station. You can put the robot in a further-reduced power state when not in 
+use. For instructions and more details on this Reduced Power Standby Mode, 
+refer to the FAQ page on our website.
+•  For long-term storage, turn off the robot by removing it from the charging 
+station and holding down the clean button for 3 seconds with one wheel off 
+the ground. Store the robot in a cool, dry place.
+Light Ring Spiral While Charging
+White Spiral: charging
+A solid white light will indicate the battery 
+charge percentage of your robot
+Note: Your robot comes with a partial charge, but we recommend that you charge 
+the robot for 3 hours prior to starting the first cleaning job.
+When your robot is fully charged, the 
+light ring indicator will intermittently 
+pulse white at the rear.
+Using Your Roomba Combo™ Robot Vacuum & Mop
+Positioning the Clean Base™ Automatic Dirt Disposal
+Good Wi-Fi® Coverage
+*Objects are not to scale.
+4 ft (1.2 m) 
+from stairs
+4 ft (1.2 m) 
+in front
+1ft (0.3 m) 
+above
+1.5 ft (0.5 m)  
+both sides
+Note: Do not place 
+your Clean Base™ 
+in direct sunlight. 
+Ensure the area 
+around the dock 
+is free of clutter to 
+improve docking 
+performance.
+WARNING: To 
+prevent the risk of 
+your robot falling 
+downstairs, ensure 
+that the charging 
+station is placed 
+at least 4 feet (1.2 
+meters) away from 
+stairs.
+
+4        For more information, visit global.irobot.com
+EN
+Mopping
+•  Your robot is able both vacuum and mop at the same time. To start a 
+vacuum and mop cleaning job from your robot, fill the tank, attach a 
+mopping pad, and press the clean button. 
+•  When your robot encounters carpet during it’s 
+cleaning job, it will lift and tuck the mopping  
+pad away.
+•  After completing your mopping and vacuum  
+cleaning job, make sure to empty the water 
+tank and replace the mopping pad.
+• Your robot will automatically explore and clean your home in neat rows, 
+avoiding obstacles using its front-facing camera. It will return to the charging 
+station at the end of a cleaning job and whenever it needs to recharge.
+•  To end a job and send the robot back to its charging station, hold the clean 
+button down for between 2-5 seconds. A blue light ring pattern will indicate 
+that the robot is seeking the charging station.
+•  When your robot detects an especially dirty area, it will engage Dirt Detect™ 
+mode, moving in a forward/backward motion to clean the area more 
+thoroughly. The light ring indicator will flash blue.
+Vacuuming
+• To start a vacuum-only cleaning job from your robot, empty the tank or 
+detach the mopping pad before pressing the clean button.
+Just press the clean button
+Tap to Start / Pause / Resume
+Hold for 2-5 seconds to end a job
+Your robot is able to recognize and avoid 
+objects. However, it is still recommended 
+to remove excess clutter before cleaning.
+When your robot senses that its bin needs 
+to be emptied, the light ring indicator 
+will illuminate in a red sweeping motion 
+toward the rear.
+Cleaning
+WARNING: To prevent damaging your robot, do not manually stow the 
+mopping pad plate onto the pad shelf. 
+1
+3
+2
+4
+Press bin release button to 
+remove bin.
+Attach mopping pad.
+Fill tank with water and 
+compatible cleaning solution.
+Place bin back in the robot.
+
+EN
+ Roomba Combo j7+ Owner’s Guide        5
+Cleaning Solution
+For best results when mopping, use Bona® Hardwood or Hard-Surface Floor 
+Cleaning Solutions. Both solutions are suitable for most well-sealed hard floors.
+About Your Automatic Dirt Disposal
+While cleaning, your robot will automatically return to the dirt disposal to empty 
+its bin and recharge as needed. 
+The dirt disposal’s LED indicator will turn solid red when a new bag is needed. 
+If a clog is detected, the dirt disposal will trigger additional attempts to 
+automatically clear the clog.
+Sample Concentrate Packets
+Included in box
+1 Packet per tank
+Mix to manufacture instruction
+and pour into tank.
+Retail Ready-to-Use Bottles
+Sold separately
+Fill the tank with cleaning solution. No 
+water is necessary.
+Important: Only certain cleaning solutions can be safely used with your 
+robot. A full list of compatible cleaning solutions can be found on answers.
+irobot.com/s/roomba-combo-cleanser or by visiting the app. Please do 
+not use other cleaning solutions or bleach-based products.
+• Battery MUST be turned off before shipping.
+• Turn off the battery by removing the robot from the charging station 
+and holding down the clean button for 3 seconds with one wheel off the 
+ground. All indicators will turn off.
+• Package the robot securely for shipping.
+• If you need further assistance, contact our Customer Care team or visit 
+global.irobot.com.
+Troubleshooting
+WARNING: Lithium ion batteries and products that contain lithium ion 
+batteries are subject to stringent transportation regulations. If you need to 
+ship this product for service, travel or any other reason, you MUST follow the 
+below shipping instructions.
+Red Light Ring
+ Low battery. Please charge.
+•  Your robot will tell you 
+something is wrong by playing 
+an audio alert and turning the 
+light ring indicator red. Press the 
+clean button or tap the bumper 
+for details. Check the iRobot 
+Home App for further support.
+•  After 90 minutes of inactivity 
+off the charging station, the 
+robot will automatically end its 
+cleaning job. 
+•  To factory reset your robot, remove the dust bin and hold the clean button 
+down for seven (7) seconds. A sound will let you know when the factory reset 
+has been completed. Press the clean button down once more to confirm.
+Battery Safety & Shipping
+For best results, only use the iRobot Lithium Ion Battery that comes with your robot. 
+Note: If you place your robot on the dirt disposal by hand, it will not empty automatically. 
+In this case, use the iRobot Home App or hold the button down for 2-5 seconds.
+
+6        For more information, visit global.irobot.com
+EN
+Care and Maintenance
+Care and Maintenance Instructions
+To keep your robot running at peak performance, perform the procedures on the 
+following pages. 
+There are additional instructional videos in the iRobot Home App. If you notice 
+the robot picking up less debris from your floor, empty the bin, clean the filter and 
+clean the brushes.
+Troubleshooting Your Automatic Dirt Disposal
+Your dirt disposal will tell you if something is wrong via an LED indicator on the 
+front of the canister and through the iRobot Home app.
+This product has been equipped with a thermal protector designed to protect 
+against damage due to overheating. If the protector operates, the motor will stop 
+running. If this happens, unplug the unit, allow to cool for 30 minutes, clear any 
+obstructions from the evacuation port and evacuation tube, and plug the unit 
+back in. 
+Part Care FrequencyReplacement Frequency* 
+Mopping PadClean after a mopping jobAfter 30 washes.
+BinWash bin as needed
+FilterClean once a week (twice a 
+week if you have a pet). Do 
+not wash.
+Every 2 months
+Charging ContactsClean every 2 weeks
+Full Bin SensorClean every 2 weeks
+Front Caster WheelClean every 2 weeksEvery 12 months
+Edge-Sweeping Brush and 
+Multi-Surface Brushes
+Clean once a month (twice a 
+month if you have a pet)
+Every 12 months
+Sensor, Camera Window 
+and Pad Shelf
+Clean once a month
+Bags-Bags should be replaced 
+when prompted by the LED 
+indicator / app
+Blower Cover inside 
+canister
+Once every month (remove 
+debris from blower cover)
+Note: iRobot manufactures various replacement parts and assemblies. If you think you 
+need a replacement part, please contact iRobot Customer Care for more information. 
+*  Replacement frequency may vary. Parts should be replaced if visible wear appears.
+LED IndicatorCommon ErrorHow to Fix 
+Solid RedBag full or missing1. Replace bag if it is full or missing.
+2. Make sure the bag is securely inserted.
+3. If problem persists, remove any debris 
+from the port on the bottom of your robot 
+and the dirt disposal.
+Blinking RedThere is a leak or  
+a clog in the dock  
+evacuation path
+1. Make sure the canister lid is pushed down 
+and firmly sealed. Hold the clean button 
+on your robot down for 2 seconds to 
+manually empty the bin.
+2. Remove any debris from the port on the 
+bottom of your robot and dirt disposal.
+3. Unplug the dirt disposal from the wall. 
+Place it on its side and inspect the debris 
+evacuation tube for debris. If necessary, 
+remove the tube to clear any debris.
+
+EN
+ Roomba Combo j7+ Owner’s Guide        7
+HAND WASHING
+Thoroughly wash the pad with warm water.
+MACHINE WASHING
+Wash using the warm cycle, then air dry. Do not 
+put in dryer. Do not wash with delicates.
+Cleaning the Mopping PadEmptying the Bin
+Note: You can clean your mopping pads two ways: 
+either by hand washing, or in a washing machine.
+1
+2
+3
+Press bin release button to remove bin.
+Open bin door to empty bin.
+Place bin back in the robot.
+Cleaning the Filter
+1
+2
+3
+Remove the bin. Remove the filter by 
+grasping both ends and pulling out.
+Remove debris by tapping the filter 
+against your trash container.
+Reinsert filter with ridged grips facing out. 
+Place bin back in the robot.
+Important: The robot will not run if the 
+filter is not installed correctly. Replace 
+the filter every two months.
+
+8        For more information, visit global.irobot.com
+EN
+Cleaning the Charging 
+Contacts
+Cleaning the Full Bin Sensors
+1
+1
+2
+34
+Wipe the charging contacts with a 
+clean, dry cloth.
+Remove and empty the bin.
+Wipe the inner sensors with a clean, 
+dry cloth
+Wipe the bin door with a clean, dry cloth.Clear any debris from the 
+vacuum path.
+Closed Door
+Opened Door
+
+EN
+ Roomba Combo j7+ Owner’s Guide        9
+Cleaning the Multi-Surface BrushesCleaning the Front Caster Wheel
+11
+3
+2
+4
+3
+2
+4
+Pinch the brush frame release tab, lift the 
+tab, and remove any obstructions.
+Pull firmly on the front wheel module to 
+remove it from the robot.
+Remove any debris from inside the 
+wheel cavity.
+ Pull firmly on the wheel to remove it from its 
+housing (see illustration below).
+Reinstall all parts when finished. 
+Make sure the wheel clicks back into place. 
+Remove any hair or debris from the square 
+and hexagonal pegs on the opposite side 
+of the brushes. 
+Remove the brushes from the robot. 
+Remove the brush caps from the ends of 
+the brushes. Remove any hair or debris 
+that has collected beneath the caps. 
+Reinstall the brush caps.
+Reinstall the brushes in the robot. Match 
+the shape of the brush pegs with the 
+shape of the brush icons in the cleaning 
+head module.
+Important: A front wheel clogged with 
+hair and debris could result in damage to 
+your floor. If the wheel is not spinning freely 
+after you have cleaned it, please contact 
+Customer Care.
+Wheel
+Axle
+Housing
+
+10        For more information, visit global.irobot.com
+EN
+Cleaning the FilterCleaning the Edge-Sweeping 
+Brush
+Cleaning the Sensors, Camera 
+Window and Charging Contacts
+1
+1
+2
+1
+2
+3
+Release the bin, remove the filter, and 
+open the bin door.
+ Use a coin or small screwdriver to remove 
+the screw holding the Edge-Sweeping 
+Brush in place.
+Pull to remove the Edge-Sweeping Brush. 
+Remove any hair or debris, then reinstall 
+the brush.
+Wipe sensors, camera window and pad 
+shelf with a clean, dry cloth.
+Rinse the dust bin and water tank using 
+warm water.
+Make sure bin is completely dry. Reinsert 
+filter and place bin back in the robot.
+Note: You can clean your mopping pads 
+two ways: either by hand washing, or in a 
+washing machine.
+Note: Bin is not dishwasher safe.
+Important: Do not spray cleaning solution or 
+water onto the sensors or sensor openings.
+Important: Do not wash the filter.
+Remove the filter before washing the bin.
+
+EN
+ Roomba Combo j7+ Owner’s Guide        11
+Replacing the BagRemoving Debris from Blower Cover
+13
+2
+4
+5
+Lift up on the canister lid to open.Pull up on the plastic card to remove the 
+bag from the canister.
+Inspect blower cover for any lint or debris built-up 
+and wipe with a clean dry cloth to remove.
+ Discard the used bag.
+Install a new bag, sliding the  
+plastic card into the guide rails.
+Press down on the lid making sure it is 
+completely closed.
+Note: This will seal 
+the bag so dust 
+and debris cannot 
+escape.
+Note: To achieve optimal performance with 
+your robot and automatic dirt disposal, 
+clean and/or replace your robot’s filter as 
+needed.
+
+12        For more information, visit global.irobot.com
+EN
+USA & Canada
+If you have questions or comments about your dirt disposal, please contact 
+iRobot before contacting a retailer.
+You can start by visiting global.irobot.com for support tips, frequently asked 
+questions, and information about accessories. This information can also be 
+found in the iRobot HOME App. If you need further assistance, call the US 
+Customer Care team at (877) 855-8593.
+iRobot USA Customer Care Hours
+Monday to Friday, 9AM — 9PM Eastern Time
+Saturday and Sunday 9AM — 6PM Eastern Time
+Outside USA & Canada 
+Visit global.irobot.com to: 
+Learn more about iRobot in your country
+ Get hints and tips to improve your product performance
+Get answers to questions
+Contact your local support center
+iRobot Customer Care
+
+EN
+ Roomba Combo j7+ Owner’s Guide        13
+FCC Supplier’s Declaration of Conformity
+iRobot Corporation                                                    Roomba Model: RCA-Y1
+FCC ID: UFE-RCAY1
+Contains FCC ID: UFE-AXGY1 and contains IC: 6652A-AXGY1
+This device complies with part 15 of the FCC Rules and ICES-003. 
+Operation is subject to the following two conditions: (1) This device may not 
+cause harmful interference, and (2) this device must accept any interference 
+received, including interference that may cause undesired operation.
+This device complies with Industry Canada license-exempt RSS standard(s). 
+Operation is subject to the following two conditions: 1) This device may not 
+cause interference, and 2) this device must accept any interference, including 
+interference that may cause undesired operation of the device.
+• Changes or modifications not expressly approved by iRobot Corporation 
+could void the user’s authority to operate the equipment.
+•  This equipment has been tested and found to comply with the limits for a 
+Class B digital device, pursuant to part 15 of the FCC Rules as well as ICES-
+003 Rules. These limits are designed to provide reasonable protection against 
+harmful interference in a residential installation. This equipment generates, 
+uses and can radiate radio frequency energy and, if not installed and used 
+in accordance with the instructions, may cause harmful interference to radio 
+communications. However, there is no guarantee that interference to radio 
+communication will not occur in a particular installation. If this equipment 
+does cause harmful interference to radio or television reception, which can 
+be determined by turning the equipment off and on, the user is encouraged 
+to try to correct the interference by one or more of the following measures: 
+• Reorient or relocate the receiving antenna.
+• Increase the separation between the equipment and receiver.
+•  Connect the equipment into an outlet on a circuit different from that to 
+which the receiver is connected.
+•  Consult the dealer or an experienced radio/TV technician for help.
+•  Under Industry Canada regulations, this radio transmitter may only operate 
+using an antenna of a type and maximum (or lesser) gain approved for 
+the transmitter by Industry Canada. To reduce potential radio interference 
+to other users, the antenna type and its gain should be so chosen that 
+the equivalent isotropically radiated power (e.i.r.p.) is not more than the 
+necessary for successful communication.
+•  FCC Radiation Exposure Statement: This product complies with FCC 
+§2.1091(b) for mobile device RF exposure limits, set forth for an uncontrolled 
+environment and is safe for the intended operation as described in this 
+manual. Per FCC requirements, maintain a distance of more than 8 inches 
+(20 cm) between any person and the host device (Roomba Combo robot).
+•  ISED Radiation Exposure Statement: This product complies with the Canadian 
+Standard RSS-102 for mobile device RF exposure limits, set forth for an 
+uncontrolled environment and is safe for the intended operation as described 
+in this manual. Per ISED requirements, 
+ maintain a distance of more than 8 inches (20 cm) between any person and 
+the robot.
+iRobot Corporation, 8 Crosby Drive, Bedford, MA 01730 USA.
+https://global.irobot.com
+For battery recycling go to call2recycle.org;  
+or call 1-800-822-8837
+Regulatory Information
+
+14        For more information, visit global.irobot.com
+EN
+©2022 iRobot Corporation, 8 Crosby Drive, Bedford, MA 01730 USA. All rights reserved. iRobot is 
+a registered trademark of iRobot Corporation. Roomba Combo, Clean Base and Dirt Detect are 
+trademarks of iRobot Corporation. Wi-Fi and the Wi-Fi logo are registered trademarks of Wi-Fi 
+Alliance. Apple and App Store are trademarks of Apple Inc., registered in the U.S. and other countries. 
+Google Play is a trademark of Google LLC. Bona is a registered trademark of Bona AB Corp.
+
+FR
+Cet appareil peut être utilisé par des enfants âgés de 8 ans et plus, et par des personnes ayant des 
+capacités physiques, sensorielles ou mentales réduites, ou un manque d’expérience et de connaissances, 
+si des conseils ou des instructions leur ont été donnés concernant l’utilisation en toute sécurité de 
+l’appareil et les dangers que cela comporte. Les enfants ne doivent pas jouer avec l’appareil. Le 
+nettoyage et l’entretien par l’utilisateur ne doivent pas être effectués par des enfants sans surveillance. 
+Consignes de sécurité
+Consignes de sécurité importantes
+CONSERVEZ CES INSTRUCTIONS
+AVERTISSEMENT : Lorsque vous utilisez un appareil électrique, vous devez toujours respecter certaines 
+précautions de base, notamment :
+LIRE TOUTES LES INSTRUCTIONS AVANT L’UTILISATION
+AVERTISSEMENT : Pour réduire tout risque de blessure ou de dommage, lisez et respectez les consignes 
+de sécurité suivantes lors de la configuration, de l’utilisation et de l’entretien de votre robot.
+Ce guide du propriétaire comprend des renseignements sur les modèles de réglementation : 
+Robot : RCA-Y1 | Station : ADG-N1 | Batterie : ABL-F | Module de radio : AXG-Y1
+Voici le symbole d’alerte de sécurité. Il est utilisé pour vous informer d’éventuels risques de blessure. 
+Respectez tous les messages de sécurité qui suivent ce symbole afin d’éviter tout risque de blessure ou de mort.
+Risque 
+d’électrocution
+Équipement de classe II
+Puissance de sortie 
+nominale, c.c.
+ 
+Lire le manuel de 
+l’opérateur
+Symbole général de 
+recyclage
+Risque 
+d’incendie
+Ne l’utilisez pas à l’extérieur ou 
+sur des surfaces humides.
+Puissance d’entrée 
+nominale, c.c.
+Tenir hors de portée 
+des enfants
+Unité d’alimentation 
+séparée
+Attention
+Puissance d’entrée nominale, 
+c.a.
+
+FR
+AVERTISSEMENT : Indique une situation dangereuse qui, si elle n’est pas 
+évitée, peut entraîner la mort ou de graves blessures. 
+ATTENTION : Indique une situation dangereuse qui, si elle n’est pas évitée, 
+peut entraîner des blessures mineures ou modérées. 
+AVIS : Indique une situation dangereuse qui, si elle n’est pas évitée, peut 
+entraîner des dommages matériels.
+GÉNÉRAL
+AVERTISSEMENT 
+• Votre robot est fourni avec un cordon d’alimentation adapté à votre 
+région et est conçu pour être branché uniquement sur une prise de 
+courant c.a. domestique standard. N’utilisez aucun autre cordon 
+d’alimentation. Pour obtenir un cordon de remplacement adapté à votre 
+région, communiquez avec le service d’assistance à la clientèle.
+• Ne plongez pas votre robot dans l’eau.
+• N’ouvrez pas le boîtier de votre robot, à moins de le faire selon les 
+instructions pour installer ou remplacer la batterie ou pour effectuer 
+l’entretien requis. N’ouvrez pas la station de recharge intégrée, appelé 
+Home Base ou Clean Base. Elle ne renferme aucune pièce pouvant être 
+réparée par l’utilisateur. Confiez l’entretien à du personnel d’entretien 
+qualifié.
+• Risque de décharge électrique; n’utilisez l’appareil qu’à l’intérieur dans 
+un environnement sec.
+• Ne manipulez pas le robot ni la station de recharge avec les mains 
+mouillées. 
+• N’utilisez pas de chargeurs non autorisés. L’utilisation d’un chargeur non 
+autorisé pourrait faire en sorte que la batterie surchauffe, prenne feu ou 
+explose, ou que de la fumée s’en dégage.
+• Votre robot n’est pas un jouet. Il est nécessaire de surveiller les jeunes 
+enfants et les animaux domestiques lorsque le robot est en marche. 
+Ne vous assoyez pas ou ne vous tenez pas debout sur le robot ni sur la 
+station de recharge.
+• Rangez et utilisez le robot à température ambiante uniquement.
+• Si la pièce à nettoyer comprend un balcon, mettez en place une 
+barrière physique pour empêcher l’appareil d’y accéder et pour garantir 
+un fonctionnement sécuritaire.
+• Nettoyez la lentille des capteurs (de détection de bordure ou de vide) 
+et les couvercles sous votre robot pour éliminer toute accumulation de 
+poussière et de saleté, au besoin.
+• Si la pièce à nettoyer comprend des électroménagers, comme un four, 
+un ventilateur ou un humidificateur d’air, retirez les appareils avant de 
+commencer le nettoyage. Des blessures, des accidents ou des risques 
+de défectuosité pourraient survenir si le robot entre en contact avec les 
+appareils et les pousse.
+• N’utilisez pas la plaque de la lingette réutilisable comme poignée pour 
+soulever ou déplacer le robot.
+• Sachez que les sols peuvent être glissants après leur nettoyage humide 
+avec votre robot.
+• N’utilisez pas le robot dans des zones avec des prises de courant 
+exposées au sol.
+ATTENTION  
+• N’utilisez pas cet appareil pour ramasser des objets tranchants, du verre 
+ou tout objet qui brûle ou qui fume.
+• N’oubliez pas que le robot se déplace seul. Faites attention en vous 
+déplaçant dans la zone où le robot fait son travail afin d’éviter de 
+marcher dessus.
+•  Si l’appareil passe sur un cordon d’alimentation et l’entraîne, il est 
+possible qu’un objet sur une table ou une étagère soit également 
+entraîné. Avant d’utiliser cet appareil, ramassez les objets comme les 
+vêtements et les papiers volants et ne laissez pas traîner les cordons de 
+stores ou de rideaux, les cordons d’alimentation et les objets fragiles. 
+• Effectuez l’entretien requis conformément au guide du propriétaire 
+pour garantir le fonctionnement sécuritaire du robot et de la station de 
+recharge.
+• Si le robot fonctionne sur un plancher avec des escaliers, veuillez 
+éliminer tout encombrement de la marche supérieure.
+ 
+• Évitez de mouiller le robot ou la station de recharge.
+• Ne placez aucun objet sur le robot.
+•  Si les contacts du chargeur ne sont pas nettoyés régulièrement, il est 
+possible que la batterie du robot ne puisse plus se recharger.
+• Avant de faire fonctionner votre robot sur des planchers durs, veuillez 
+le tester sur une petite section du plancher dur pour vous assurer qu’il 
+
+FR
+est compatible. L’utilisation de votre robot pour nettoyer un plancher 
+dur qui n’est pas compatible pourrait endommager votre plancher. 
+Communiquez avec le fabricant de votre plancher pour connaître la 
+compatibilité.
+• Avant d’utiliser votre robot pour nettoyer les tapis, vérifiez s’ils sont 
+adaptés au nettoyage avec brosses ou barres. L’utilisation de votre 
+robot pour nettoyer un tapis qui n’est pas compatible pourrait 
+endommager vos tapis. Communiquez avec le fabricant des tapis pour 
+connaître les accessoires à utiliser.
+BATTERIE
+AVERTISSEMENT  
+• Ne pas ouvrir, écraser, chauffer à plus de 80 °C ou brûler. Suivez les 
+directives du guide du propriétaire pour une utilisation, une maintenance, 
+une manipulation et une élimination adéquates.
+• Évitez de court-circuiter la batterie en permettant à des objets métalliques 
+d’entrer en contact avec les bornes de la batterie ou en l’immergeant dans 
+un liquide. Évitez de soumettre les batteries à des chocs mécaniques.
+• Les batteries au lithium-ion et les produits qui contiennent des batteries au 
+lithium-ion sont soumis à des règles de transport très strictes. Si vous avez 
+besoin d’expédier ce produit (batterie incluse) pour des services, un voyage 
+ou toute autre raison, vous devez consulter la section sur le dépannage de 
+votre guide du propriétaire ou communiquer avec le service d’assistance à 
+la clientèle pour obtenir les instructions d’expédition.
+• Vérifiez régulièrement le bloc-batterie pour détecter tout signe de 
+dommage ou de fuite. Ne chargez pas les blocs-batterie endommagés 
+ou qui fuient. Ne laissez pas le liquide entrer en contact avec la peau ou 
+les yeux. En cas de contact, lavez la zone touchée abondamment à l’eau 
+et consultez un médecin. Placez la batterie dans un sac en plastique 
+hermétiquement fermé et recyclez-la ou éliminez-la conformément aux 
+réglementations environnementales locales, ou retournez-la au centre de 
+service local agréé iRobot aux fins d’élimination.
+• Gardez le bloc-batterie propre et sec. Essuyez les bornes de la pile ou de la 
+batterie avec un chiffon propre et sec si elles sont sales.
+ATTENTION 
+• L’utilisation de la batterie par de jeunes enfants doit être surveillée. 
+Consultez immédiatement un professionnel de la santé en cas 
+d’ingestion d’une batterie.
+• Le bloc-batterie doit être retiré du robot avant d’être recyclé ou éliminé.
+• Pour obtenir des résultats optimaux, utilisez uniquement la batterie au 
+lithium-ion qui est fournie avec le robot. 
+• N’utilisez pas de batteries non rechargeables. Utilisez uniquement 
+la batterie rechargeable fournie avec le produit. Pour la remplacer, 
+procurez-vous une batterie iRobot identique ou communiquez avec 
+le service d’assistance à la clientèle d’iRobot pour connaître d’autres 
+options.
+• Avant de ranger à long terme le robot et ses accessoires, chargez 
+toujours les batteries et retirez-les du robot.
+SOLUTION DE NETTOYAGE
+AVERTISSEMENT  
+• Les produits d’entretien ménager sont sécuritaires lorsqu’ils sont utilisés 
+et stockés conformément aux instructions figurant sur l’étiquette. 
+Assurez-vous de toujours lire et suivre les instructions attentivement.
+• Utilisez uniquement la solution de nettoyage autorisée que vous 
+trouverez sur answers.irobot.com/s/roomba-combo-cleanser.
+• Pour les avertissements concernant les solutions de nettoyage, se référer 
+à l’emballage extérieur et à la bouteille contenant la solution.
+Garder hors de portée des 
+enfants.
+Se rincer les mains 
+après utilisation.
+Tenir à l’écart des yeux. Si le 
+produit pénètre dans les yeux, 
+rincer abondamment à l’eau.
+ÉLIMINATION AUTOMATIQUE DE LA SALETÉ
+AVERTISSEMENT  
+• N’utilisez pas si le cordon ou la fiche sont endommagés. Si l’appareil 
+
+IV        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+ne fonctionne pas comme il le devrait, s’il a été échappé, endommagé, 
+laissé dehors ou échappé dans l’eau, retournez-le à un centre de 
+services. 
+• Déconnectez toujours le robot du dispositif d’élimination de la saleté 
+avant de le nettoyer ou de l’entretenir.
+• Chargez le robot uniquement avec l’alimentation fournie. L’alimentation 
+fournie génère une très basse tension de sécurité correspondant au 
+marquage d’entrée sur le robot qui est nécessaire pour assurer un 
+fonctionnement sûr.
+• N’insérez aucun objet dans les ouvertures. N’utilisez pas si une ouverture 
+est obstruée. Maintenir exempt de poussières, de peluches et de 
+cheveux ainsi que de tout ce qui pourrait réduire le débit d’air. 
+• Afin d’éviter que le robot ne déboule les escaliers, assurez-vous que la 
+station de recharge est située à au moins 1,2 m (4 pi) des escaliers.
+• Pour entretenir correctement le dispositif d’élimination de la saleté, ne 
+placez pas d’objets dans votre port d’élimination automatique de la 
+saleté et assurez-vous qu’il est exempt de débris.
+• Afin d’éviter tout danger dû à un enclenchement intempestif de la 
+protection thermique, cet appareil ne doit pas être alimenté par un 
+dispositif de commutation externe, tel qu’une minuterie, ou connecté à 
+un circuit qui est régulièrement mis en marche et arrêté par le service 
+public.
+• Ne versez aucun liquide dans l’appareil et ne pas l’immerger dans l’eau.
+• Ne versez pas de liquide dans ou sur le dispositif d’élimination de la 
+saleté.
+• N’utilisez pas à l’extérieur ou sur des surfaces humides. 
+• Ne permettez pas qu’il soit utilisé comme un jouet. Il est nécessaire de 
+faire bien attention lorsqu’il est utilisé par des enfants ou à proximité 
+d’enfants.
+• Afin d’éviter tout danger dû à un enclenchement intempestif de la 
+protection thermique, cet appareil ne doit pas être alimenté par un 
+dispositif de commutation externe, tel qu’une minuterie, ou connecté à 
+un circuit qui est régulièrement mis en marche et arrêté par le service 
+public.
+• N’utilisez le robot que conformément aux instructions figurant dans ce 
+guide.
+• Pour réduire le risque d’électrocution, débranchez le dispositif 
+d’élimination de la saleté avant de le nettoyer.
+• Tenez le dispositif d’élimination de la saleté et le cordon d’alimentation 
+à l’écart des surfaces chaudes.
+ATTENTION 
+• Ne chargez que la batterie fournie avec votre robot. Tout autre type de 
+batterie risque d’éclater et d’occasionner des blessures. Communiquez 
+toujours avec le Service d’assistance à la clientèle d’iRobot pour obtenir 
+une batterie de remplacement.
+• Le produit ne peut pas être utilisé avec un convertisseur de puissance. 
+L’utilisation d’un convertisseur de puissance annule immédiatement la 
+garantie.
+• Si vous vivez dans une zone sujette aux orages violents, nous vous 
+recommandons d’utiliser des parasurtenseurs. En cas d’orage violent, 
+vous pouvez protéger le dispositif d’élimination de la saleté à l’aide d’un 
+parasurtenseur.
+• N’utilisez pas sans sac à poussière ou filtre installé.
+Le symbole sur la batterie indique que la batterie ne doit pas être éliminée 
+avec les déchets municipaux non triés. En tant qu’utilisateur final, il est de 
+votre responsabilité d’éliminer la batterie en fin de vie de votre appareil 
+d’une manière respectueuse de l’environnement. Pour ce faire, veuillez 
+procéder comme suit :
+(1) la retourner au distributeur/revendeur auprès duquel vous avez acheté 
+le produit; ou
+(2) la déposer dans un point de collecte désigné.
+La collecte et le recyclage séparés des batteries en fin de vie au moment 
+de leur élimination contribuent à préserver les ressources naturelles et 
+à garantir leur recyclage de manière à protéger la santé humaine et 
+l’environnement. Pour plus d’informations, veuillez communiquer avec 
+votre centre de recyclage local ou avec le revendeur auprès duquel 
+vous avez acheté le produit. Si les batteries en fin de vie ne sont pas 
+correctement éliminées, les substances contenues dans les batteries et les 
+accumulateurs peuvent avoir des effets néfastes sur l’environnement et la 
+santé humaine.
+   Remarque : Pour recycler la batterie, consultez le site call2recycle.org  
+         ou appelez au 1 800-822-8837.
+
+ Guide du propriétaire du Roomba Combo™ j7+        1
+FR
+Renseignements sur votre robot aspirateur et laveur 
+Roomba Combo™
+BacVue du dessus
+Vue du dessous
+Filtre
+Bouchon du réservoir
+Réservoir d’eau
+Bac à 
+poussière
+Façade
+Plaque de la lingette 
+réutilisable
+Capteur de suivi 
+des murs
+Caméra
+Bouton de 
+nettoyage
+Bouton de 
+dégagement 
+du bac
+Contacts de 
+chargement
+Roue pivotante
+Détecteur de 
+vide
+Détecteur de 
+plancher
+Détecteurs de 
+vide
+Brosse latérale
+Brosses 
+multisurfaces
+Détecteurs de 
+plancher
+Languette de 
+dégagement de 
+l’armature de la 
+brosse 
+Capuchons de 
+brosse
+Bac
+Capteur de suivi 
+du sol
+Détecteurs de vide
+Détecteur de vide
+
+2        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+Couvercle du 
+réservoir
+Conduit 
+d’évacuation
+Cages de roues
+Contacts de 
+chargement
+Renseignements sur le dispositif d’élimination 
+automatique de la saleté Clean Base™
+Vue du dessus
+Vue avant
+Rembobineur de 
+cordon
+Guide-rails de 
+sac
+Tube d’évacuation des 
+débris
+Tube d’évacuation des 
+débris
+Compartiment 
+pour ranger 
+le sac
+Couvercle de la 
+soufflerie
+Capteur de présence 
+de sac
+Vue arrière
+Vue du dessous
+Cible pour 
+l’ancrage visuel
+Ouverture 
+d’évacuation 
+des débris
+Languette
+Voyant DEL
+
+ Guide du propriétaire du Roomba Combo™ j7+        3
+FR
+Téléchargez l’application iRobot Home et connectez-
+vous au réseau Wi-Fi®
+• Suivez les instructions étape par étape pour configurer votre Roomba Combo™.
+• Configurez la naviguation Precision Vision pour éviter les obstacles en temps réel.
+•  Définissez un programme de nettoyage automatique et personnalisez les 
+préférences de nettoyage.
+•  Créez des cartes intelligentes pour dire à votre robot où, quand et comment laver.
+Recharge
+CLEAN
+•  Placez le robot sur la station de recharge pour activer la batterie.
+•  Le robot aspirateur consomme une petite quantité d’électricité lorsqu’il est 
+sur la station de recharge. Il est toutefois possible de mettre le robot en mode 
+faible consommation lorsqu’il n’est pas utilisé. Pour des instructions et plus de 
+détails sur le mode de veille avec faible consommation, consultez la FAQ de 
+notre site Web.
+•  Pour un rangement à long terme, éteignez le robot en le retirant de la station 
+de recharge et en maintenant le bouton de nettoyage enfoncé 3 secondes 
+pendant qu’une roue du robot ne touche pas le sol. Rangez le robot dans un 
+endroit frais et sec.
+Anneau lumineux pendant la charge
+Spirale blanche : recharge en cours
+Une lumière blanche fixe indique le 
+pourcentage de chargement de la batterie 
+de votre robot
+ Remarque :  Votre robot est livré avec une charge partielle, mais nous vous 
+recommandons de le charger pendant 3 heures avant de démarrer la première tâche 
+de nettoyage complète.
+Lorsque votre robot est entièrement 
+chargé, l’anneau lumineux s’allumera 
+en pulsions intermittentes à l’arrière.
+Utilisation de votre robot aspirateur et laveur 
+Roomba Combo™
+Positionnement de la station de recharge Home Base
+Bonne couverture Wi-Fi®
+* Les objets ne sont pas 
+à l’échelle.
+1,20 m (4 pi) 
+des escaliers
+0,3 m (1 pi) 
+au-dessus
+1,20 m (4 pi) 
+à l’avant
+0,5 m (1,5 pi) 
+des deux côtés
+Remarque : 
+N’exposez pas la 
+station Clean Base™ 
+directement au 
+soleil. Assurez-
+vous que la zone 
+à proximité de la 
+station est dégagée 
+pour améliorer la 
+performance de la 
+station.
+AVERTISSEMENT : 
+Afin d’éviter que le 
+robot ne déboule les 
+escaliers, assurez-
+vous que la station 
+de recharge est 
+située à au moins 
+1,2 m (4 pi) des 
+escaliers.
+
+4        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+Lavage des sols
+•  Votre robot peut passer l’aspirateur et laver les planchers en même temps. Pour 
+commencer une tâche d’aspiration et de lavage pour votre robot, remplissez le 
+réservoir, fixez une lingette et appuyez sur le bouton de nettoyage. 
+•  Lorsque votre robot rencontre un tapis 
+pendant son nettoyage, il soulève et range la 
+plaque de la lingette.
+•  Après le nettoyage et l’aspiration terminés,  
+assurez-vous de vider le réservoir d’eau et de 
+remplacer la lingette.
+• Votre robot explorera et nettoiera automatiquement votre maison, en rangées 
+soignées et en évitant les obstacles à l’aide de sa caméra avant. Il retournera 
+à la station de recharge à la fin d’une tâche de nettoyage et chaque fois qu’il 
+a besoin d’être rechargé.
+•  Pour mettre fin à une tâche et renvoyer le robot à sa station de recharge, 
+maintenez le bouton de nettoyage enfoncé pendant 2 à 5 secondes. Un motif 
+de voyant DEL bleu indique que le robot cherche la station de recharge.
+•  Lorsque votre robot détecte une zone particulièrement sale, il active l’option 
+Dirt Detect™ et se déplace vers l’avant et vers l’arrière pour mieux nettoyer la 
+zone. Le voyant lumineux bleu clignotera.
+Aspiration
+• Pour commencer une tâche d’aspiration seulement pour votre robot, videz 
+le réservoir ou détachez la lingette réutilisable avant d’appuyer sur le 
+bouton de nettoyage.
+Appuyez sur le bouton de nettoyage.
+Appuyez pour démarrer/mettre en 
+pause/reprendre.
+Maintenez-le enfoncé pendant 2 à 
+5 secondes pour mettre fin à une tâche.
+Votre robot peut reconnaître et éviter des objets. 
+Toutefois, nous vous recommandons de dégager 
+les zones avant le nettoyage.
+Lorsque votre robot détecte que son 
+bac a besoin d’être vidé, le voyant DEL 
+s’allume en rouge avec un mouvement 
+de balayage vers l’arrière.
+Nettoyage
+AVERTISSEMENT : Pour éviter d’endommager votre robot, ne rangez pas 
+manuellement la plaque de la lingette de nettoyage sur la tablette de la lingette. 
+1
+3
+2
+4
+Appuyez sur le bouton de 
+dégagement du bac pour 
+retirer ce dernier.
+Fixez une lingette réutilisable.
+Remplissez le réservoir avec 
+de l’eau et une solution 
+nettoyante compatible.
+Replacez le bac dans le robot.
+
+ Guide du propriétaire du Roomba Combo™ j7+        5
+FR
+Solution de nettoyage
+Pour de meilleurs résultats lorsque vous lavez les sols, utilisez les solutions de 
+nettoyage pour planchers de bois franc et sols durs Bona®. Les deux solutions 
+conviennent pour la plupart des planchers durs bien scellés.
+À propos du dispositif d’élimination automatique de la 
+saleté
+Tandis qu’il nettoie, le robot retourne automatiquement au dispositif 
+d’élimination de la saleté pour vider son bac et se recharger, au besoin. 
+Le voyant DEL du dispositif d’élimination de la saleté devient rouge fixe 
+lorsqu’un nouveau sac est nécessaire. Si une obstruction est détectée, le 
+dispositif d’élimination de la saleté déclenche plusieurs tentatives afin de 
+l’éliminer automatiquement.
+Échantillons de solutions
+Compris dans l’emballage
+1 solution par réservoir
+Mélangez selon les instructions du fabricant et versez 
+dans le réservoir.
+Bouteilles prêtes à l’emploi
+Vendues séparément
+Remplissez le réservoir avec la solution de nettoyage. Il 
+n’est pas nécessaire d’ajouter de l’eau.
+Important : Seules certaines solutions de nettoyage peuvent être utilisées en toute 
+sécurité avec votre robot. Vous trouverez une liste complète des solutions de nettoyage 
+compatibles sur answers.irobot.com/s/roomba-combo-cleanser ou sur l’application. 
+Veuillez ne pas utiliser d’autres solutions de nettoyage ou produits à base de javellisant.
+• La batterie DOIT être désactivée avant l’envoi.
+• Éteignez le robot en le retirant de la station de recharge et en 
+maintenant le bouton de nettoyage enfoncé 3 secondes pendant 
+qu’une roue du robot ne touche pas le sol. Tous les voyants s’éteindront.
+• Emballez le robot avec précaution en vue de l’expédition.
+• Pour obtenir de l’aide, communiquez avec notre équipe du service 
+d’assistance à la clientèle ou visitez le global.irobot.com.
+Dépannage
+AVERTISSEMENT : Les batteries au lithium-ion et les produits qui contiennent 
+des batteries au lithium-ion sont soumis à des règles de transport très 
+strictes. Si vous avez besoin d’expédier votre produit à des fins d’entretien 
+ou de réparation, de voyage ou pour une autre raison, vous DEVEZ respecter 
+les instructions d’expédition suivantes.
+Voyant rouge
+ Batterie faible. Chargez le robot.
+•  En cas de dysfonctionnement,  
+votre robot émet un signal 
+sonore et le voyant DEL s’allume 
+en rouge. Appuyez sur le bouton 
+de nettoyage ou sur le pare-
+chocs pour plus de détails. 
+Consultez l’application iRobot 
+Home pour obtenir de l’aide.
+•  Après 90 minutes d’inactivité 
+hors de la station de recharge, 
+le robot terminera sa tâche de 
+nettoyage automatiquement. 
+•  Pour réinitialiser votre robot à l’état d’usine, retirez le bac à poussière et 
+maintenez le bouton de nettoyage enfoncé pendant sept (7) secondes. Un 
+signal sonore vous indiquera lorsque la réinitialisation l’état d’usine sera 
+terminée. Appuyez une fois de plus sur le bouton de nettoyage pour confirmer.
+Informations relatives à la sécurité et l’expédition de 
+batteries
+Pour obtenir des résultats optimaux, utilisez uniquement la batterie au lithium-ion 
+iRobot qui est fournie avec le robot.  
+Remarque :Si le fonctionnement manuel du robot est activé, le dispositif d’élimination de 
+la saleté ne se videra pas automatiquement. Dans ce cas, utilisez l’application iRobot 
+Home ou maintenez le bouton enfoncé pendant 2 à 5 secondes.
+
+6        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+Pièce Fréquence d’entretienFréquence de 
+remplacement* 
+Lingette réutilisableNettoyer après utilisationAprès 30 lavages.
+BacNettoyer le bac au besoin
+FiltreNettoyer une fois par semaine (deux 
+fois par semaine si vous possédez un 
+animal de compagnie) Ne pas laver.
+Tous les deux mois
+Contacts de chargementNettoyer toutes les deux semaines
+Capteur de bac pleinNettoyer toutes les deux semaines
+Roue avantNettoyer toutes les deux semainesTous les ans
+Brosse latérale et brosses 
+principales multisurface
+Nettoyer une fois par mois (deux fois 
+par mois si vous possédez un animal 
+de compagnie)
+Tous les ans
+Capteur, fenêtre de la 
+caméra et tablette de lingette
+Nettoyer une fois par mois
+Sacs-Les sacs doivent être 
+remplacés lorsque le 
+voyant DEL/l’application 
+donne l’alerte
+Couvercle de la soufflerie dans 
+le réservoir
+Une fois par mois (éliminer les débris 
+du couvercle de la soufflerie)
+Entretien et maintenance
+Instructions d’entretien et de maintenance
+Respectez les procédures décrites dans les pages suivantes pour préserver les 
+performances optimales de votre robot. 
+Vous trouverez des vidéos pédagogiques supplémentaires dans l’application 
+iRobot Home. Si vous remarquez que votre robot ramasse moins de débris sur 
+le plancher, videz le bac, nettoyez le filtre et nettoyez les brosses.
+Dépannage du dispositif d’élimination automatique de 
+la saleté
+Le dispositif d’élimination de la saleté vous informera que quelque chose ne va 
+pas à l’aide d’un voyant DEL situé à l’avant du réservoir et par l’entremise de 
+l’application iRobot Home.
+Ce produit est équipé d’un protecteur thermique conçu pour le protéger contre 
+les dommages dus à une surchauffe. Si le protecteur est mis en fonction, le moteur 
+cesse de fonctionner. Si cela se produit, débranchez l’appareil, laissez-le refroidir 
+pendant 30 minutes, éliminez toute obstruction de l’embouchure et du tube 
+d’évacuation, puis rebranchez l’appareil. 
+ Remarque : iRobot fabrique diverses pièces et divers assemblages de rechange. Si vous 
+pensez avoir besoin d’une pièce de rechange, communiquez avec le service d’assistance 
+à la clientèle d’iRobot. 
+ * La fréquence de remplacement peut varier. Les pièces devraient être changées en cas d’usure visible.
+Voyant DELErreur couranteRéparation 
+Rouge fixeSac plein ou  
+manquant
+1. Remplacez le sac s’il est plein ou manquant.
+2. Assurez-vous que le sac est bien inséré.
+3. Si le problème persiste, retirez tout débris 
+de l’ouverture située au bas du robot et du 
+dispositif d’élimination de la saleté.
+Rouge 
+clignotant
+Il y a une fuite ou 
+une obstruction 
+dans le chemin 
+d’évacuation de la 
+station.
+1. Assurez-vous que le couvercle du réservoir est 
+bien fermé de façon hermétique. Maintenez 
+le bouton de nettoyage de votre robot 
+enfoncé pendant 2 secondes pour vider 
+manuellement le bac.
+2. Retirez tout débris de l’ouverture située au 
+bas du robot et du dispositif d’élimination de 
+la saleté.
+3. Débranchez le dispositif d’élimination de la 
+saleté du mur. Mettez-le sur le côté et exa-
+miner le tube d’évacuation pour voir s’il y a 
+des débris. Si nécessaire, retirez le tube pour 
+éliminer les débris.
+
+ Guide du propriétaire du Roomba Combo™ j7+        7
+FR
+LAVAGE À LA MAIN
+Lavez minutieusement la lingette à l’eau tiède.
+LAVAGE À LA MACHINE
+Lavez en utilisant le cycle tiède, puis séchez à l’air. 
+Ne mettez pas dans la sécheuse. Ne pas laver 
+avec les tissus délicats.
+Nettoyer la lingette réutilisableVidage du bac
+ Remarque : Vous pouvez nettoyer vos lingettes 
+réutilisables de deux façons : soit par un rinçage à la 
+main, soit dans une machine à laver.machine.
+1
+2
+3
+Appuyez sur le bouton de dégagement du 
+bac pour retirer ce dernier.
+Ouvrez la porte du bac pour le vider.
+Replacez le bac dans le robot.
+Nettoyage du filtre
+1
+2
+3
+Retirez le bac. Retirez le filtre en agrippant 
+les deux extrémités et en tirant.
+Enlevez les débris se trouvant sur le 
+filtre en le frappant doucement contre 
+votre poubelle.
+Réinsérez le filtre avec les contours 
+ondulés orientés vers l’extérieur. 
+Replacez le bac dans le robot.
+Important: Le robot ne fonctionnera 
+pas si le filtre n’est pas installé 
+correctement. Remplacer le filtre tous 
+les deux mois.
+
+8        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+Nettoyage des contacts de 
+chargement
+Nettoyage des capteurs de bac plein
+1
+1
+2
+34
+Essuyez les contacts de chargement 
+avec un chiffon propre et sec.
+Retirez et videz le bac.
+Essuyez les capteurs internes avec 
+un chiffon propre et sec.
+Essuyez la porte du bac avec un chiffon 
+propre et sec.
+Retirez les débris du 
+chemin de l’aspirateur.
+Porte fermée
+Porte ouverte
+
+ Guide du propriétaire du Roomba Combo™ j7+        9
+FR
+Nettoyage des brosses multisurfacesNettoyage de la roue avant
+11
+3
+2
+4
+3
+2
+4
+Pincez la languette de dégagement 
+de l’armature de la brosse, soulevez la 
+languette et retirez toute obstruction.
+Tirez fermement sur le module de roue avant 
+pour le retirer du robot.
+Retirez les débris à l’intérieur de la 
+cavité de la roue.
+ Tirez fermement sur la roue pour l’enlever de 
+son logement (voir l’illustration ci-dessous).
+Une fois les débris retirés, réinstallez toutes 
+les pièces.Assurez-vous de bien fixer la 
+roue dans son emplacement (vous devez 
+entendre un clic). 
+Retirez les cheveux ou les débris coincés 
+autour des tiges carrée et hexagonale,  
+à l’autre extrémité des brosses. 
+Retirez les brosses du robot. Retirez les 
+capuchons de brosse aux extrémités 
+des brosses. Retirez les cheveux ou les 
+débris qui se trouvent sous les capuchons. 
+Réinstallez les capuchons des brosses.
+Réinstallez les brosses dans le robot. 
+Faites correspondre la forme des tiges 
+de brosses avec la forme des icônes du 
+module de tête de nettoyage des brosses.
+Important: Une roue avant encombrée de 
+débris ou de cheveux peut endommager 
+le plancher. Si la roue ne tourne pas 
+librement une fois que vous l’avez nettoyée, 
+communiquez avec le service d’assistance à 
+la clientèle.
+Roue
+Axe
+Logement
+
+10        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+Nettoyage du bacNettoyage de la brosse latéraleNettoyage des capteurs, de la 
+fenêtre de la caméra et des 
+contacts de chargement
+1
+1
+2
+1
+2
+3
+Retirez le bac, ainsi que le filtre et ouvrez 
+la porte du bac.
+ Servez-vous d’une pièce de monnaie ou 
+d’un petit tournevis pour retirer la vis qui 
+retient la brosse latérale en place.
+Tirez pour retirer la brosse latérale. 
+Enlevez les cheveux ou les débris, puis 
+réinstallez la brosse.
+Essuyez les capteurs, la fenêtre de la 
+caméra et la tablette de lingette avec un 
+chiffon propre et sec.
+Rincez le bac à poussière et le réservoir 
+d’eau à l’eau tiède
+Assurez-vous que le bac est 
+complètement sec. Réinsérez le filtre, puis 
+replacez le bac dans le robot.
+ Remarque : Vérifiez la fenêtre de la 
+caméra. Si vous voyez des fissures, veuillez 
+communiquer avec le service d’assistance 
+à la clientèle.
+Remarque : Le bac ne doit pas être mis au 
+lave-vaisselle.
+Important: Ne pas pulvériser d’eau ni de 
+solution de nettoyage sur les capteurs ou 
+leurs ouvertures.
+Important: Ne pas nettoyer le filtre.
+Retirer le filtre avant de nettoyer le bac.
+
+ Guide du propriétaire du Roomba Combo™ j7+        11
+FR
+Remplacement du sacÉlimination des débris du couvercle 
+de la soufflerie
+13
+2
+4
+5
+Appuyez sur le couvercle du réservoir pour 
+qu’il s’ouvre.
+ Jetez le sac usé.
+Examinez le couvercle de la soufflerie pour voir 
+s’il y a une accumulation de peluches ou de 
+débris. Essuyez avec un chiffon propre et sec pour 
+les éliminer.
+Tirez fermement sur la carte de plastique 
+pour retirer le sac du réservoir.
+Installez un nouveau sac en faisant glisser 
+la carte en plastique sur les guide-rails.
+Appuyez sur le couvercle pour s’assurer 
+qu’il est complètement fermé.
+ Remarque : Cela rendra 
+le sac hermétique, ainsi la 
+poussière et les débris ne 
+pourront s’en échapper.
+ Remarque : Pour que le robot et le dispositif 
+d’élimination automatique de la saleté 
+atteignent un rendement optimal, nettoyez 
+ou remplacez les filtres du robot au besoin.
+
+12        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+États-Unis et Canada
+Si vous avez des questions ou des commentaires concernant votre robot 
+aspirateur et laveur Roomba Combo™, veuillez communiquer avec iRobot 
+avant de contacter un détaillant.
+Visitez d’abord le site global.irobot.com pour obtenir des conseils et accéder 
+aux questions fréquentes ainsi qu’à des informations sur les accessoires. Vous 
+trouverez également ces informations dans l’application iRobot Home. Si vous 
+avez encore besoin d’aide, appelez notre équipe du service d’assistance à la 
+clientèle au 877-855-8593.
+Horaires du service d’assistance à la clientèle d’iRobot 
+aux États-Unis
+Du lundi au vendredi, de 9 h à 21 h, heure de l’Est
+Du samedi au dimanche, de 9 h à 18 h, heure de l’Est
+À l’extérieur des États-Unis et du Canada
+Visitez le site global.irobot.com pour : 
+En savoir plus sur iRobot dans votre pays.
+ Découvrir les conseils et astuces permettant d’améliorer la performance de 
+votre robot aspirateur et laveur Roomba Combo™.
+Obtenir des réponses à vos questions.
+Communiquer avec votre centre d’assistance local.
+Service d’assistance à la clientèle iRobot
+
+ Guide du propriétaire du Roomba Combo™ j7+        13
+FR
+Déclaration de conformité du fournisseur de la FCC
+iRobot Corporation                                   Modèle Roomba Combo : RCA-Y1
+FCC ID: UFE-RCAY1
+Porte l’identification FCC : UFE-AXGY1 et le numéro IC : 6652A-AXGY1
+Cet appareil respecte l’alinéa 15 des réglementations de la FCC et ICES-003. 
+Son fonctionnement est soumis aux deux conditions suivantes : 1) Cet appareil 
+ne doit pas provoquer d’interférences nuisibles, et 2) cet appareil doit tolérer 
+toute interférence reçue, y compris les interférences susceptibles d’engendrer 
+un fonctionnement indésirable.
+Cet appareil est conforme aux normes d’exemption de licence CNR 
+d’Innovation, Sciences et Développement économique Canada. Son 
+fonctionnement est soumis aux deux conditions suivantes : 1) Cet appareil 
+ne doit pas provoquer d’interférences, et 2) cet appareil doit tolérer toute 
+interférence, y compris les interférences susceptibles d’engendrer un 
+fonctionnement indésirable de l’appareil.
+•  Les changements ou les modifications non approuvés expressément 
+par iRobot Corporation sont susceptibles d’entraîner la révocation de 
+l’autorisation d’utilisation de l’appareil par l’utilisateur.
+•  Cet équipement a été testé et déclaré conforme aux limites d’un appareil 
+numérique de classe B, conformément à l’alinéa 15 des réglementations 
+de la FCC et ICES-003. Ces limites sont conçues pour assurer une 
+protection raisonnable contre les interférences nuisibles dans une 
+installation résidentielle. Cet équipement génère, utilise et peut émettre de 
+l’énergie radiofréquence et, s’il n’est pas installé et utilisé conformément 
+aux instructions, il peut provoquer des interférences nuisibles aux 
+communications radio. Il n’existe toutefois aucune garantie que de telles 
+interférences ne se produiront pas dans une installation particulière. Si cet 
+équipement occasionne des interférences nuisibles aux réceptions radio 
+ou télévisuelles, ce qui peut être déterminé en allumant et en éteignant 
+l’appareil, l’utilisateur est invité à corriger ce problème en prenant une ou 
+plusieurs des mesures suivantes :
+• Réorientez ou repositionnez l’antenne de réception.
+• Augmentez la distance entre l’équipement et le récepteur.
+•  Branchez l’équipement sur la prise d’un circuit différent de celui du 
+récepteur.
+•  Consultez le revendeur ou un technicien radio/TV qualifié pour obtenir de 
+l’aide.
+•  Conformément à la réglementation d’Innovation, Sciences et Développement 
+économique Canada, cet émetteur radio peut fonctionner uniquement avec 
+une antenne d’un type et d’un gain maximal (ou inférieur) approuvés pour 
+l’émetteur par Innovation, Sciences et Développement économique Canada. 
+Dans le but de réduire les risques d’interférence radio pouvant être subis par 
+les autres utilisateurs, il faut choisir le type d’antenne et son gain de sorte 
+que la puissance isotrope rayonnée équivalente (p.i.r.e.) ne dépasse pas 
+l’intensité nécessaire à l’établissement d’une communication satisfaisante.
+•  Déclaration de la FCC sur l’exposition aux radiations : ce produit est 
+conforme à la règle § 2.1091(b) de la FCC concernant les limites d’exposition 
+aux RF émises par un appareil mobile dans un environnement non contrôlé, 
+et il est considéré comme sécuritaire pour l’utilisation qui est décrite dans 
+le présent manuel. Conformément aux exigences de la FCC, maintenez une 
+distance de plus de 20 cm (8 po) entre toute personne et l’appareil hôte 
+(robot Roomba Combo).
+•  Déclaration de la ISED sur l’exposition aux radiations : ce produit est conforme 
+à la norme canadienne RSS-102 concernant les limites d’exposition aux RF 
+émises par un appareil portable dans un environnement non contrôlé, et il est 
+considéré comme sécuritaire pour l’utilisation qui est décrite dans le présent 
+manuel. Conformément aux exigences d’ISED, maintenez une distance de plus 
+de 20 cm (8 po) entre toute personne et le robot.
+iRobot Corporation, 8 Crosby Drive, Bedford,  
+MA 01730 États-Unis.https://global.irobot.com
+Pour recycler la batterie, consultez le site  
+call2recycle.org ou appelez au 1 800-822-8837
+Renseignements sur la réglementation
+
+14        FPour obtenir plus d’informations, consultez le site global.irobot.com
+FR
+© 2022 iRobot Corporation, 8 Crosby Drive, Bedford, MA 01730 États-Unis. Tous droits réservés. 
+iRobot est une marque déposée d’iRobot Corporation. Roomba Combo, Clean Base et Dirt Detect 
+sont des marques de commerce d’iRobot Corporation. Wi-Fi et le logo Wi-Fi sont des marques 
+déposées de Wi-Fi Alliance. Apple et App Store sont des marques de commerce d’Apple, Inc. 
+déposée aux États-Unis et dans d’autres pays. Google Play est une marque de commerce de Google 
+LLC. Bona est une marque de commerce déposée de Bona AB Corp.
+
+ES
+Este aparato pueden utilizarlo niños a partir de los 8 años y personas que tengan capacidades 
+físicas, sensoriales o mentales reducidas, o que no posean experiencia ni conocimiento relacionados 
+con el producto, siempre y cuando se las haya supervisado e instruido en lo que respecta a la 
+seguridad en el uso del aparato y comprendan los riesgos involucrados. Los niños no deben jugar 
+con el aparato. Tampoco deben realizar tareas de limpieza ni mantenimiento sin supervisión. 
+Información de seguridad
+Instrucciones importantes de seguridad
+GUARDA ESTAS INSTRUCCIONES
+ADVERTENCIA: Cuando se utiliza un aparato eléctrico, siempre se deben tomar precauciones 
+básicas, como las siguientes:
+LEE TODAS LAS INSTRUCCIONES ANTES DE USARLO
+ADVERTENCIA: Para reducir el riesgo de lesiones o daños, lee estas precauciones de seguridad y 
+guíate por ellas cuando configures y utilices el robot, y cuando lleves a cabo el mantenimiento.
+En esta guía del usuario, se incluye información para los modelos reglamentarios: Robot: RCA-Y1 | 
+Robot: RCA-Y1 | Acople: ADG-N1 | Batería: ABL-F | Módulo de radio: AXG-Y1
+Este es el símbolo de alerta de seguridad. Se utiliza para alertar sobre posibles peligros de lesiones físicas. 
+Guíate por todos los mensajes de seguridad que aparecen después de este símbolo para evitar posibles lesiones o la muerte.
+Riesgo de 
+descarga eléctrica
+Equipo de clase II
+Salida de potencia 
+nominal, CC
+ 
+Leer el manual del 
+operador
+Símbolo general de 
+reciclaje
+Riesgo de incendio
+No lo utilice al aire libre ni 
+en superficies mojadas
+Entrada de potencia 
+nominal, CC
+Mantener fuera del 
+alcance de los niños
+Unidad de suministro 
+independiente
+Precaución
+Entrada de potencia 
+nominal, CA
+
+ES
+ADVERTENCIA: Indica que se trata de una situación peligrosa que,  
+si no se evita, podría provocar la muerte o lesiones graves. 
+PRECAUCIÓN: Indica que se trata de una situación peligrosa que,  
+si no se evita, podría provocar lesiones leves o moderadas. 
+AVISO: Indica que se trata de una situación peligrosa que, si no se evita, 
+podría provocar daños materiales.
+INFORMACIÓN GENERAL
+ADVERTENCIA 
+• El robot incluye un cable de suministro de energía aprobado en la 
+región y está diseñado para conectarse exclusivamente a una salida de 
+alimentación de CA para electrodomésticos estándar. No utilices ningún 
+otro tipo de cable de alimentación. Si necesitas cables de repuesto, 
+comunícate con Atención al cliente para seleccionar adecuadamente 
+el cable de alimentación específico para tu país.
+• No sumerjas el robot en agua.
+• No abras el robot, excepto como se indica en las instrucciones 
+para la instalación o el reemplazo de la batería, o para realizar el 
+mantenimiento requerido. No abras el cargador de acople integrado, 
+conocido como Home Base o Clean Base. No hay ninguna pieza interna 
+que el usuario pueda reparar. Deja las tareas de mantenimiento en 
+manos de personal de servicio calificado.
+• Riesgo de descarga eléctrica. Solo para uso en áreas interiores secas.
+• No manipules el robot ni la estación de carga con las manos mojadas. 
+• No utilices cargadores no autorizados. Si usas un cargador no autorizado, 
+la batería podría generar calor o humo, incendiarse o explotar.
+• El robot no es un juguete. Se debe vigilar a los niños pequeños y las 
+mascotas mientras el robot esté en funcionamiento. No te sientes ni te 
+pares sobre el robot o el acople.
+• Guarda y utiliza el robot solamente a temperatura ambiente.
+• Si la habitación que debes limpiar tiene un balcón, se debe utilizar una 
+barrera física para impedir el acceso al balcón y garantizar un uso seguro.
+• Limpia el polvo y la suciedad acumulados de los lentes de sensores (de 
+desnivel o de detección de bordes) y las cubiertas de la parte inferior 
+del robot, según sea necesario.
+• Si la habitación que vas a limpiar contiene artefactos, como una estufa, 
+un ventilador o un humidificador, quítalos antes de poner el robot en 
+funcionamiento. Si el robot entra en contacto con el artefacto y lo 
+empuja, existe un riesgo de lesiones, accidentes o averías.
+• No uses la placa de la almohadilla de trapeado como asa para 
+levantar o mover el robot.
+• Ten presente que los pisos pueden estar resbalosos después de la 
+limpieza con el robot.
+• No utilices el robot en áreas que tengan enchufes expuestos en el piso.
+PRECAUCIÓN  
+• No utilices este dispositivo para recoger objetos punzantes, vidrio ni 
+ningún objeto que esté quemándose o produciendo humo.
+• Recuerda que el robot se mueve por sí solo. Ten cuidado cuando 
+camines en el área donde está funcionando el robot para evitar pisarlo.
+•  Si el dispositivo pasa sobre un cable de alimentación y lo arrastra, 
+podría caerse algún objeto que esté sobre una mesa o un estante. 
+Antes de utilizar el dispositivo, recoge los objetos como ropa, papeles 
+sueltos, cordones de persianas o cortinas, cables de alimentación y 
+cualquier objeto frágil. 
+• Realiza el mantenimiento que se describe en la guía del usuario para 
+garantizar un funcionamiento seguro del robot y de la estación de carga.
+• Si el robot está funcionando en un piso con escaleras, despeja el área 
+del escalón superior.
+• No dejes que se humedezca el robot ni la estación de carga.
+• No coloques ningún objeto encima del robot.
+•  Si no se mantienen limpios los contactos del cargador, se podría perder 
+la capacidad de carga de la batería del robot y los contactos se 
+recalentarán al tacto.
+• Antes de utilizar el robot en pisos duros, prueba el robot en una 
+pequeña sección de este para asegurarte de que sea compatible. Si 
+utilizas el robot sobre un piso duro no compatible, podría causarle 
+daños. Comunícate con el fabricante del piso duro en caso de que 
+tengas dudas sobre la compatibilidad.
+• Antes de poner el robot en funcionamiento sobre alfombras o tapetes, 
+comprueba que las alfombras o los tapetes sean compatibles con 
+aspiradoras que usen cepillos o barras de cepillos. Si utilizas el robot 
+sobre una alfombra o un tapete no compatible, podrías causar daños 
+
+ES
+a tu alfombra o tapete. Comunícate con el fabricante de tu alfombra o 
+tapete en caso de que tengas dudas sobre la compatibilidad.
+BATERÍA
+ADVERTENCIA  
+• No abras, aplastes, incineres ni calientes la batería a más de 80 °C 
+(176 °F). Sigue las instrucciones que aparecen en la guía del usuario 
+para conocer el uso, el mantenimiento, la manipulación y la eliminación 
+adecuados.
+• No permitas que haya objetos de metal en contacto con los terminales 
+de la batería ni la sumerjas en líquido, ya que podría producirse un 
+cortocircuito. No expongas las baterías  
+a sacudidas mecánicas.
+• Las baterías de iones de litio y los productos que contienen esas baterías 
+están sujetos a estrictas regulaciones de transporte. Si necesitas 
+transportar este producto (con la batería incluida) para su reparación, 
+por razones vinculadas con un viaje o por cualquier otro motivo, debes 
+consultar la sección “Solución de problemas” de la guía del usuario o 
+comunicarte con Atención al cliente a fin de que te proporcionen las 
+instrucciones pertinentes de transporte.
+• Inspecciona periódicamente las baterías para detectar cualquier señal 
+de daño o fuga. No cargues baterías dañadas ni con fugas, ni permitas 
+que el líquido entre en contacto con la piel o los ojos. Si hubo contacto, 
+lava el área afectada con abundante agua y busca atención médica. 
+Coloca la batería en una bolsa de plástico sellada y recíclala o deséchala 
+siguiendo las normativas ambientales locales, o bien devuélvela al centro 
+de atención autorizado local de iRobot para desecharla.
+• Mantén limpias y secas las baterías. Limpia las celdas o los terminales de 
+la batería con un paño limpio y seco si se ensucian.
+PRECAUCIÓN 
+• Se debe vigilar a los niños que puedan utilizar la batería. Obtén atención 
+médica de inmediato en caso de ingesta de una celda o batería.
+• Debes extraer las baterías del robot antes de reciclarlo o desecharlo.
+• Para obtener mejores resultados, utiliza solamente la batería de iones 
+de litio de iRobot que se incluye con el robot. 
+• No utilices baterías no recargables. Utiliza solo las baterías recargables 
+incluidas con el producto. Para cambiarlas, compra baterías de iRobot 
+idénticas o comunícate con Atención al cliente de iRobot para obtener 
+información sobre otras alternativas.
+• Siempre carga las baterías y sácalas del robot, junto con los accesorios, 
+antes de guardarlo por mucho tiempo.
+SOLUCIÓN DE LIMPIEZA
+ADVERTENCIA  
+• Los productos de limpieza del hogar son seguros cuando se utilizan y 
+guardan de acuerdo con las instrucciones que aparecen en la etiqueta. 
+Siempre asegúrate de leer y seguir las instrucciones con cuidado.
+• Solo usa la solución de limpieza autorizada que se encuentra en 
+answers.irobot.com/s/roomba-combo-cleanser.
+• Para conocer las advertencias sobre la solución de limpieza, consulta la 
+caja externa y la botella de solución.
+Mantener fuera del alcance 
+de los niños.
+Enjuágate las 
+manos después de 
+usarlo.
+Mantener alejado de los 
+ojos. Si el producto entra en 
+contacto con los ojos, en-
+juágatelos bien con agua.
+ESTACIÓN DE VACIADO DE LA SUCIEDAD
+ADVERTENCIA  
+• No lo utilices con el cable ni el enchufe dañados. Si el aparato no funciona 
+como debería, se cayó, se dañó, se dejó al aire libre o se sumergió en 
+agua, devuélvelo a un centro de servicio. 
+• Siempre desconecta el robot de la estación de vaciado antes de limpiarlo 
+o de realizarle mantenimiento.
+• Carga el robot solo con la fuente de alimentación que se proporciona. La 
+fuente de alimentación proporcionada suministra una tensión extrabaja de 
+
+ES
+seguridad, correspondiente a la marca de entrada en el robot, la cual se 
+necesita para mantener un funcionamiento seguro.
+• No coloques ningún objeto en las aberturas. No lo uses con ninguna 
+abertura bloqueada; mantenlo libre de polvo, pelusas, cabello y cualquier 
+elemento que pueda reducir el flujo de aire. 
+• Para evitar que el robot se caiga por las escaleras, asegúrate de que la 
+estación de carga permanezca al menos a 1,2 metros (4 pies) de distancia 
+de cualquier escalera.
+• Para mantener de forma adecuada la estación de vaciado, no coloques 
+objetos extraños dentro del puerto de la estación de vaciado de la 
+suciedad y comprueba que no haya residuos.
+• Con el fin de evitar riesgos causados por el reinicio inadvertido del 
+termofusible, este aparato no debe recibir alimentación eléctrica 
+a través de un dispositivo de conmutación externo, como un 
+temporizador, ni conectarse a un circuito que el servicio público 
+encienda y apague con frecuencia.
+• No viertas ningún líquido en el dispositivo ni lo sumerjas en agua.
+• No permitas que entren líquidos en la estación de vaciado ni que 
+caigan sobre esta.
+• No lo utilices al aire libre ni en superficies mojadas. 
+• No permitas que se use como juguete. Se requiere estricta supervisión 
+cuando sea utilizado por niños o cerca de ellos.
+• Con el fin de evitar riesgos causados por el reinicio inadvertido del 
+termofusible, este aparato no debe recibir alimentación eléctrica 
+a través de un dispositivo de conmutación externo, como un 
+temporizador, ni conectarse a un circuito que el servicio público 
+encienda y apague con frecuencia.
+• Úsalo solo como se describe en este manual.
+• Para reducir el riesgo de descarga eléctrica, desconecta la estación de 
+vaciado antes de limpiarla.
+• Mantén la estación de vaciado y el cable de alimentación lejos de 
+superficies calientes.
+PRECAUCIÓN 
+• Solo carga la batería que se incluye con el robot. Otro tipo de baterías 
+podría explotar y causar lesiones. Siempre comunícate con Atención al 
+cliente de iRobot para saber cuál es el repuesto correcto de la batería.
+• El producto no se puede usar con ningún tipo de transformador 
+de corriente. Si utilizas transformadores de corriente, se invalidará 
+inmediatamente la garantía.
+• Si vives en una zona propensa a tormentas eléctricas, se recomienda 
+utilizar protección adicional contra sobretensión. Es posible que la 
+estación de vaciado disponga de un protector de sobretensión en caso 
+de que se produzcan tormentas eléctricas intensas.
+• No lo uses si no tiene la bolsa de polvo o los filtros en su lugar.
+Este símbolo en la batería indica que esta no debe desecharse con 
+la basura municipal común sin clasificar. Como usuario final, es tu 
+responsabilidad deshacerte de la batería al final de su vida útil en el 
+dispositivo de una manera que considere el medioambiente, como se 
+indica a continuación:
+(1) devolverla al distribuidor o concesionario a quien le compraste el 
+producto; o
+(2) depositarla en un punto de recolección designado.
+La recolección y el reciclaje por separado de las baterías al final de su 
+vida útil, en el momento de la eliminación, servirán para preservar los 
+recursos naturales y garantizar que se reciclen de una manera que proteja 
+la salud humana y el medioambiente. Para obtener más información, 
+comunícate con la oficina local de reciclaje o con el distribuidor a quien le 
+compraste originalmente el producto. Si no te deshaces adecuadamente 
+de las baterías al final de su vida útil, esto podría afectar de manera 
+negativa el medioambiente y la salud humana a causa de las sustancias 
+presentes en las baterías y los acumuladores.
+  Nota: Para obtener información sobre el reciclaje de las baterías, 
+        visita call2recycle.org o llama al 1-800-822-8837.
+
+ Guía del usuario de Roomba Combo™ j7+       1
+ES
+Acerca del robot aspirador y trapeador Roomba Combo™
+Recipiente de residuosVista superior
+Vista inferior
+Cubierta frontal
+Placa de almohadilla 
+de trapeado
+Sensor de 
+seguimiento  
+de pared
+Cámara
+Botón de limpieza
+Filtro
+Tapa del tanque
+Tanque de agua
+Recipiente 
+de residuos
+Botón de liberación del 
+recipiente de residuos
+Contactos 
+de carga
+Rueda guía
+Sensor de  
+desnivel
+Sensor de suelo
+Sensores de  
+desnivel
+Cepillo para  
+barrido de 
+bordes
+Cepillos para 
+múltiples 
+superficies
+Sensores de suelo
+Lengüeta de 
+liberación del 
+armazón de los 
+cepillos 
+Tapas del cepillo
+Recipiente de 
+residuos
+Sensor de 
+seguimiento de 
+suelo
+Sensores de desnivel
+Sensor de desnivel
+
+2        Para obtener más información, visita global.irobot.com
+ES
+Acerca de la estación de vaciado de la suciedad 
+Clean Base™
+Vista superior
+Vista frontal
+Sujetador del 
+cable
+Rieles guía de la 
+bolsa
+Tubo de evacuación 
+de residuos
+Tubo de evacuación 
+de residuos
+Compartimiento de 
+almacenamiento de 
+la bolsa
+Cubierta del 
+ventilador
+Sensor de presencia de 
+la bolsa
+Vista posterior
+Vista inferior
+Tapa del 
+recipiente
+Objetivo de 
+acoplamiento visual
+Escape
+Puerto de evacuación de 
+residuos
+Lengüeta
+Indicador LED
+Huecos de las 
+ruedas
+Contactos de 
+carga
+
+ Guía del usuario de Roomba Combo™ j7+       3
+ES
+Descarga la app iRobot Home y conéctate a Wi-Fi®
+• Sigue las instrucciones paso a paso para configurar el Roomba Combo™.
+• Configura PrecisionVision Navigation para evitar obstáculos en tiempo real.
+•  Define un programa de limpieza automático y personaliza las preferencias 
+de limpieza.
+•  Crea mapas inteligentes para indicarle al robot dónde y cómo limpiar.
+Carga
+CLEAN
+•  Coloca el robot sobre la estación de carga para activar la batería.
+•  El robot utiliza una pequeña cantidad de energía cada vez que se encuentra 
+en la estación de carga. Se puede reducir aún más el consumo de energía 
+del robot cuando no está en uso. Para obtener instrucciones y más detalles 
+sobre este modo de reposo con consumo reducido de energía, consulta la 
+página de preguntas frecuentes en nuestro sitio web.
+•  Para un almacenamiento a largo plazo, apaga el robot; para ello, quítalo 
+de la estación de carga y mantén presionado el botón de limpieza durante 
+3 segundos con solo una de las ruedas tocando el suelo. Guarda el robot en 
+un lugar fresco y seco.
+Anillo de luz en espiral mientras carga
+Espiral blanca: cargando
+Una luz blanca fija indicará el porcentaje  
+de carga de la batería del robot.
+ Nota: El robot viene parcialmente cargado, pero se recomienda cargarlo durante 
+tres horas antes de iniciar el primer ciclo de limpieza.
+Cuando el robot esté completamente 
+cargado, el anillo de luz parpadeará de 
+manera intermitente de color blanco en la 
+parte posterior
+Uso del robot aspirador y trapeador Roomba Combo™
+Posición de la estación de carga Home Base™
+Nota: No pongas 
+la Clean Base™ 
+directamente 
+bajo la luz del sol. 
+Asegúrate de que 
+el área alrededor 
+del acople esté 
+despejada 
+para mejorar el 
+rendimiento de 
+acoplamiento.
+ADVERTENCIA:  
+Para evitar que 
+el robot se caiga 
+por las escaleras, 
+asegúrate de que la 
+estación de carga 
+permanezca al 
+menos a 1,2 metros 
+(4 pies) de distancia 
+de cualquier 
+escalera.
+Buena cobertura Wi-Fi®
+* Los objetos no están 
+a escala.
+1,2 m (4 pies) 
+desde las 
+escaleras
+0,3 m (1 pie) 
+arriba
+1,2 m (4 pies) 
+al frente
+0,5 m (1,5 pies) 
+a ambos lados
+
+4        Para obtener más información, visita global.irobot.com
+ES
+Trapeado
+•  Tu robot puede aspirar y trapear al mismo tiempo. Para empezar un ciclo de 
+limpieza de aspirado y trapeado con el robot, rellena el tanque, coloca la 
+almohadilla de trapeado y presiona el botón de limpieza. 
+•  Si el robot se encuentra con una alfombra 
+durante su ciclo de limpieza, levantará y 
+guardará la almohadilla de trapeado.
+•  Después de completar el ciclo de limpieza 
+de trapeado y aspirado, asegúrate de 
+vaciar el tanque de agua y reemplazar la 
+almohadilla de trapeado.
+• El robot explorará y limpiará automáticamente tu hogar en filas prolijas, y evitará 
+los obstáculos con su cámara frontal. Regresará automáticamente a la estación 
+de carga al final de un ciclo de limpieza y cada vez que necesite recargarse.
+•  Para finalizar un trabajo y enviar el robot de vuelta a su estación de carga, 
+mantén presionado el botón de limpieza durante 2 a 5 segundos. Un anillo de 
+luz azul indicará que el robot está buscando la estación de carga.
+•  Cuando el robot detecte un área especialmente sucia, se activará el modo 
+Dirt Detect™ y el robot se moverá hacia delante y hacia atrás para limpiar el 
+área con mayor intensidad. El anillo de luz parpadeará en color azul.
+Aspirado
+• Para empezar un ciclo de solo aspirado con el robot, vacía el tanque o retira 
+la almohadilla de trapeado antes de presionar el botón de limpieza.
+Solo presiona el botón de limpieza
+Presiona para iniciar/pausar/reanudar
+Mantén presionado durante  
+2 a 5 segundos para finalizar  
+un ciclo de limpieza
+El robot puede reconocer y evitar objetos. 
+Sin embargo, se recomienda despejar el 
+área antes de la limpieza.
+Cuando el robot detecte que debe 
+vaciarse su recipiente de residuos, se 
+encenderá el anillo de luz con un barrido 
+rojo hacia la parte posterior.
+Limpieza
+ADVERTENCIA: Para evitar que el robot se dañe, no guardes de forma manual 
+la placa de almohadilla de trapeado en la bandeja de la almohadilla. 
+1
+3
+2
+4
+Presiona el botón de liberación 
+del recipiente de residuos para 
+extraer el recipiente.
+Coloca una almohadilla de 
+trapeado.
+Llena el tanque con agua 
+y la solución de limpieza 
+compatible.
+Vuelve a colocar el recipiente 
+de residuos en el robot.
+
+ Guía del usuario de Roomba Combo™ j7+       5
+ES
+Solución de limpieza
+Para obtener mejores resultados con el trapeado, usa las soluciones de limpieza 
+para maderas o superficies duras Bona®. Ambas soluciones son aptas para la 
+mayoría de los pisos duros bien sellados.
+Muestras de paquetes de concentrado
+Incluidas en la caja
+1 paquete por tanque
+Mézclalo según las instrucciones del fabricante 
+y viértelo en el tanque.
+Botellas listas para usar de venta minorista
+Se venden por separado
+Llena el tanque con la solución de limpieza. No 
+es necesario usar agua.
+Importante: Solo algunas soluciones de limpieza se pueden usar de 
+forma segura en el robot. Para encontrar una lista completa de soluciones 
+de limpieza compatibles, visita answers.irobot.com/s/roomba-combo-
+cleanser o accede a la aplicación. No uses otras soluciones de limpieza ni 
+productos a base de blanqueadores
+• La batería DEBE desactivarse antes del transporte.
+• Para apagar la batería, quita el robot de la estación de carga y 
+mantén presionado el botón de limpieza durante 3 segundos con solo 
+una de las ruedas tocando el suelo. Todos los indicadores se apagarán.
+• Embala el robot de forma segura para el transporte.
+• Si necesitas más ayuda, comunícate con nuestro equipo de Atención al 
+cliente o visita global.irobot.com.
+Solución de problemas
+ ADVERTENCIA: Las baterías de iones de litio y los productos que contienen 
+esas baterías están sujetos a estrictas regulaciones de transporte. Si 
+necesitas transportar este producto para su reparación, por razones 
+vinculadas con un viaje o por cualquier otro motivo, DEBES seguir las 
+instrucciones de transporte que se detallan a continuación.
+Anillo de luz 
+de color rojo
+ Batería baja. Cárgala.
+•  El robot indicará que algo está 
+mal con una alerta de audio y se 
+encenderá el anillo de luz en color 
+rojo. Presiona el botón de limpieza 
+o toca el parachoques para ver más 
+detalles. Revisa la app iRobot Home 
+para obtener asistencia adicional.
+•  Después de 90 minutos de inactividad 
+fuera de la estación de carga, el 
+robot terminará automáticamente su 
+ciclo de limpieza. 
+•  Para restablecer el robot a los valores de fábrica, quita el depósito y 
+mantén presionado el botón de limpieza durante siete (7) segundos. Un 
+sonido te indicará cuando se haya completado el restablecimiento a 
+los valores de fábrica. Presiona el botón de limpieza una vez más para 
+confirmar.y reset has been completed. Press the clean button down once 
+more to confirm.
+Seguridad y envío de la batería
+Para obtener mejores resultados, utiliza solamente la batería de iones de litio de 
+iRobot que se incluye con el robot. 
+
+6        Para obtener más información, visita global.irobot.com
+ES
+Cuidado y mantenimiento
+Instrucciones para el cuidado y mantenimiento
+Para mantener al robot funcionando al máximo rendimiento, realiza los 
+procedimientos que se indican en las páginas siguientes. Encontrarás más 
+videos instructivos en la app iRobot Home. Si notas que el robot recoge menos 
+desechos del piso, vacía el recipiente de residuos y limpia el filtro y los cepillos.
+Solución de problemas de la estación de vaciado de la 
+suciedad
+La estación de vaciado indicará si algo está mal mediante un indicador LED en 
+la parte frontal del recipiente y por medio de la app iRobot Home.
+Este producto se equipó con un protector térmico para protegerlo contra 
+daños por sobrecalentamiento. Si el protector está operativo, el motor 
+dejará de funcionar. Si esto sucede, desenchufa la unidad, deja que se enfríe 
+durante 30 minutos, elimina cualquier obstrucción del puerto de evacuación y 
+del tubo de evacuación, y vuelve a enchufar la unidad. 
+Nota: iRobot fabrica diferentes piezas de repuesto y ensamblajes. Si necesitas una pieza 
+de repuesto, comunícate con Atención al cliente de iRobot para obtener más informació
+ * La frecuencia de reemplazo puede variar. Las piezas deben reemplazarse cuando haya señales visibles 
+de desgaste.
+Pieza Frecuencia de cuidadoFrecuencia de reemplazo* 
+Almohadilla de 
+trapeado
+Límpiala después de un ciclo de 
+trapeado
+Después de 30 lavados
+Recipiente de residuosLava el recipiente de residuos según 
+se requiera
+FiltroLímpialo una vez a la semana (dos 
+veces a la semana si tienes una 
+mascota). No lo laves.
+Cada 2 meses
+Contactos de cargaLímpialos cada 2 semanas
+Sensor de recipiente de 
+residuos lleno
+Límpialo cada 2 semanas
+Rueda guía delanteraLímpiala cada 2 semanasCada 12 meses
+Cepillo para barrido de 
+bordes y cepillos para 
+múltiples superficies
+Límpialos una vez al mes (dos veces 
+al mes si tienes mascotas)
+Cada 12 meses
+Sensor, ventana de la 
+cámara y bandeja de la 
+almohadilla
+Límpialos una vez al mes
+Bolsas-Las bolsas deben reemplazarse 
+cuando lo solicite el indicador 
+LED o la aplicación
+Cubierta del ventilador 
+dentro del recipiente
+Una vez al mes (quita los residuos de 
+la cubierta del ventilador)
+Indicador LEDError comúnCómo arreglarlo 
+Rojo fijoBolsa llena o faltante1. Coloca una nueva si la bolsa está llena 
+o no hay ninguna.
+2. Asegúrate de que la bolsa esté 
+colocada correctamente.
+3. Si el problema persiste, quita cualquier 
+residuo del puerto en la parte inferior 
+del robot y la estación de vaciado.
+Rojo intermitenteHay una fuga o una  
+obstrucción en la ruta  
+de evacuación del 
+acople
+1. Asegúrate de que la tapa del recipiente 
+esté presionada y firmemente sellada. 
+Mantén presionado el botón de 
+limpieza del robot durante 2 segundos 
+para vaciar el recipiente de residuos 
+manualmente.
+2. Quita cualquier residuo del puerto en 
+la parte inferior del robot y la estación 
+de vaciado.
+3. Desconecta la estación de vaciado 
+de la pared. Colócala de costado e 
+inspecciona el tubo de evacuación para 
+detectar residuos. Si es necesario, quita el 
+tubo para eliminar cualquier residuo.
+
+ Guía del usuario de Roomba Combo™ j7+       7
+ES
+LAVADO A MANO
+Lava bien la almohadilla con agua tibia.
+LAVADO A MÁQUINA
+Haz el lavado en el ciclo de agua tibia y, luego, 
+sécala al aire. No la pongas en la secadora. No 
+la laves junto con prendas delicadas.
+Limpieza de la almohadilla de 
+trapeado
+Vaciado del recipiente de 
+residuos
+Nota: Puedes limpiar las almohadillas de 
+trapeado de dos maneras: a mano o en la 
+lavadora.
+1
+2
+3
+Presiona el botón de liberación del 
+recipiente de residuos para extraer 
+el recipiente.
+Abre la puerta del recipiente de 
+residuos para vaciarlo.
+Vuelve a colocar el recipiente de 
+residuos en el robot.
+Limpieza del filtro
+1
+2
+3
+Extrae el recipiente de residuos. Para 
+extraer el filtro, tira de ambos extremos.
+Golpea suavemente el filtro contra el 
+recipiente de basura para desprender 
+los residuos.
+Vuelve a colocar el filtro con las 
+hendiduras acanaladas hacia fuera. 
+Vuelve a colocar el recipiente de 
+residuos en el robot.
+Importante: El robot no funcionará si el 
+filtro no está instalado correctamente. 
+Reemplaza el filtro cada dos meses.
+
+8        Para obtener más información, visita global.irobot.com
+ES
+Limpieza de los contactos de 
+carga
+1
+Limpia los contactos de carga con un 
+paño limpio y seco.
+Limpieza de los sensores de recipiente de residuos lleno
+1
+2
+34
+Extrae y vacía el recipiente de residuos.
+Limpia los sensores internos con un 
+paño limpio y seco.
+Limpia la puerta del recipiente de 
+residuos con un paño limpio y seco.
+Quita todos los residuos del 
+área de aspirado.
+Puerta 
+cerrada
+Puerta abierta
+
+ Guía del usuario de Roomba Combo™ j7+       9
+ES
+Limpieza de los cepillos para múltiples superficiesLimpieza de la rueda guía delantera
+11
+3
+2
+4
+3
+2
+4
+Presiona la lengüeta de liberación del 
+armazón de los cepillos, levántala  
+y quita cualquier obstrucción.
+Tira firmemente del módulo de la rueda 
+delantera para desmontarla del robot.
+Quita los residuos del interior de la 
+cavidad de la rueda.
+Tira firmemente de la rueda para sacarla 
+de la caja protectora (ve la ilustración a 
+continuación).
+Cuando hayas finalizado, vuelve a colocar 
+todas las piezas en su lugar. Asegúrate de 
+que la rueda haga clic cuando la coloques 
+de nuevo en su lugar. 
+Quita los cabellos o residuos de las 
+clavijas hexagonales y cuadradas que se 
+encuentran del lado opuesto a los cepillos. 
+Quita los cepillos del robot. Quita las 
+tapas del cepillo de los extremos de los 
+cepillos. Quita cualquier residuo o cabello 
+acumulado debajo de las tapas. Vuelve  
+a colocar las tapas del cepillo en su lugar.
+Vuelve a colocar los cepillos en el robot. 
+Comprueba que la forma de las clavijas 
+de los cepillos coincida con la forma de 
+los íconos correspondientes en el módulo 
+del cabezal de limpieza.
+Importante: Si la rueda delantera se obstruye 
+con cabello y residuos, se podría dañar el 
+piso. Si la rueda no gira libremente después 
+de haberla limpiado, comunícate con 
+Atención al cliente.
+Rueda
+Eje
+Caja 
+protectora
+
+10        Para obtener más información, visita global.irobot.com
+ES
+Limpieza del recipiente de 
+residuos
+Limpieza del cepillo para barrido 
+de bordes
+Limpieza de los sensores, la 
+ventana de la cámara y los 
+contactos de carga
+1
+1
+2
+1
+2
+3
+Libera el recipiente de residuos, quita 
+el filtro y abre la puerta del recipiente 
+de residuos.
+ Utiliza una moneda o un destornillador 
+pequeño a fin de quitar el tornillo que 
+sujeta el cepillo para barrido de bordes 
+en su lugar.
+Tira del cepillo para barrido de bordes a 
+fin de quitarlo. Quita cabellos o residuos, y 
+vuelve a instalar el cepillo. 
+Limpia todos los sensores, la ventana de 
+la cámara y la bandeja de la almohadilla 
+con un paño limpio y seco.
+Lava el tanque de agua y el recipiente de 
+polvo con agua tibia.
+Asegúrate de que el recipiente de residuos 
+esté completamente seco. Vuelve a 
+colocar el filtro y el recipiente de residuos 
+en el robot.
+Nota: Revisa la ventana de la cámara. 
+Si notas alguna fisura, comunícate con 
+Atención al cliente.
+Nota: El recipiente de residuos no es apto 
+para lavavajillas.
+Importante: No rocíes agua ni solución de 
+limpieza en la abertura de los sensores ni en 
+los sensores.openings.
+Importante: No laves el filtro.
+Quita el filtro antes de limpiar el recipiente 
+de residuos.
+
+ Guía del usuario de Roomba Combo™ j7+       11
+ES
+Cambio de bolsaEliminación de residuos de 
+la cubierta del ventilador
+13
+2
+4
+5
+Levanta la tapa del recipiente para 
+abrirlo.
+ Desecha la bolsa usada.
+Inspecciona la cubierta del ventilador para 
+detectar pelusas o residuos acumulados, y 
+límpiala con un paño limpio y seco para quitarlos
+Tira hacia arriba de la tarjeta plástica 
+para sacar la bolsa del recipiente.
+Para instalar una nueva bolsa, desliza  
+la tarjeta de plástico en los rieles guía..
+Presiona la tapa hacia abajo y comprueba 
+que esté completamente cerrada.
+Nota : Esto sellará 
+la bolsa para que el 
+polvo y la suciedad no 
+puedan salirse.
+Nota : Para lograr un rendimiento óptimo 
+con el robot y la estación de vaciado de la 
+suciedad, limpia o cambia el filtro del robot 
+según sea necesario.
+
+12        Para obtener más información, visita global.irobot.com
+ES
+EE. UU. y Canadá
+Si tienes preguntas o comentarios sobre el robot aspirador y trapeador 
+Roomba Combo™, comunícate con iRobot antes de ponerte en contacto con 
+un distribuidor.
+Para comenzar, puedes visitar global.irobot.com a fin de obtener consejos 
+de soporte, respuestas a preguntas frecuentes e información sobre los 
+accesorios. También puedes encontrar esta información en la app iRobot 
+Home. Si necesitas más ayuda, llama a nuestro equipo de Atención al cliente 
+al (877) 855-8593.
+Horarios de Atención al cliente de iRobot en EE. UU.
+De lunes a viernes, de 9 a. m. a 9 p. m. (hora del este)
+Sábados y domingos de 9 a. m. a 6 p. m. (hora del este)
+Fuera de los EE. UU. y Canadá
+Visita global.irobot.com para lo siguiente: 
+Obtener más información sobre iRobot en tu país
+ Obtener sugerencias y consejos para mejorar el rendimiento del robot 
+aspirador y trapeador Roomba Combo™
+Obtener respuestas a tus preguntas
+Comunicarte con tu centro local de soporte
+Atención al cliente de iRobot
+
+ Guía del usuario de Roomba Combo™ j7+       13
+ES
+Declaración de conformidad del proveedor de la FCC
+iRobot Corporation                                   Modelo Roomba Combo: RCA-Y1
+FCC ID: UFE-RCAY1
+Cuenta con el ID de la FCC: UFE-AXGY1 y contiene IC: 6652A-AXGY1
+Este dispositivo cumple con la sección 15 de las normas de la FCC y de ICES-
+003. El funcionamiento está sujeto a las siguientes dos condiciones:  
+(1) este dispositivo no debe causar interferencias dañinas; (2) este dispositivo 
+debe aceptar cualquier interferencia recibida, incluidas las interferencias que 
+puedan causar un funcionamiento no deseado.
+Este dispositivo cumple los estándares RSS exentos de licencia de Industry 
+Canada. El funcionamiento está sujeto a las siguientes dos condiciones: 1) 
+este dispositivo no debe causar interferencias; 2) este dispositivo debe aceptar 
+cualquier interferencia, incluidas las interferencias que puedan causar un 
+funcionamiento no deseado del dispositivo.
+•  Los cambios o las modificaciones no expresamente aprobados por iRobot 
+Corporation pueden invalidar la autoridad del usuario para hacer funcionar 
+el equipo.
+•  Este equipo se examinó y se concluyó que cumple con los límites para un 
+dispositivo digital de clase B, según la sección 15 de las normas de la FCC 
+y las normas de ICES-003. Estos límites están diseñados para proporcionar 
+una protección razonable contra la interferencia dañina en una instalación 
+residencial. Este equipo genera, usa y puede irradiar energía de frecuencia 
+de radio y, si no se instala ni se usa según las instrucciones, puede causar 
+interferencia dañina a las comunicaciones por radio. Sin embargo, no se 
+garantiza que no ocurrirán interferencias en las comunicaciones por radio 
+en una instalación particular. Si este equipo causa interferencias dañinas 
+en la recepción de radio o televisión, lo que se puede determinar apagando 
+y volviendo a encender el equipo, el usuario puede tratar de corregir la 
+interferencia con una o más de las siguientes medidas:
+• Cambiar el lugar o la orientación de la antena receptora.
+• Aumentar la separación entre el equipo y el receptor.
+•  Conectar el equipo a un enchufe en un circuito que no sea al que está 
+conectado el receptor.
+•  Consultar al distribuidor o a un técnico de radio o televisión con 
+experiencia para obtener ayuda.
+•  De acuerdo con los reglamentos de Industry Canada, este transmisor de 
+radio solo puede funcionar con una antena de un tipo y una ganancia 
+máxima (o inferior) aprobada por Industry Canada para el transmisor. Con 
+el objetivo de reducir la posible interferencia de radio para otros usuarios, 
+el tipo de antena y la ganancia deben seleccionarse de manera que la 
+potencia isotrópica radiada equivalente (PIRE) no supere el valor máximo, a 
+fin de permitir una comunicación exitosa.
+•  Declaración de exposición a la radiación de la FCC: Este producto cumple 
+con la sección 2.1091(b) de la FCC respecto de los límites de exposición 
+a RF de dispositivos móviles, definidos en un entorno no controlado, y es 
+seguro para los propósitos de funcionamiento deseados según lo descrito en 
+este manual. De acuerdo con los requisitos de la FCC, mantén una distancia 
+de más de 20 cm (8 pulgadas) entre cualquier persona y el dispositivo host 
+(robot Roomba Combo).
+•  Declaración de exposición a la radiación de la ISED: Este producto cumple 
+con el estándar canadiense RSS-102 respecto de los límites de exposición 
+de RF de dispositivos móviles, definidos en un entorno no controlado, y es 
+seguro para los propósitos de funcionamiento deseados según lo descrito en 
+este manual. De acuerdo con los requisitos de la ISED, mantén una distancia 
+de más de 20 cm (8 pulgadas) entre cualquier persona y el robot.
+iRobot Corporation, 8 Crosby Drive, Bedford,  
+MA 01730 EE. UU.
+https://global.irobot.com
+Para obtener información sobre el reciclaje  
+de las baterías, visita call2recycle.org  
+o llama al 1-800-822-8837.7
+Información reglamentaria
+
+14        Para obtener más información, visita global.irobot.com
+ES
+©2022 iRobot Corporation, 8 Crosby Drive, Bedford, MA, 01730, EE. UU. Todos los derechos 
+reservados. iRobot es una marca comercial registrada de iRobot Corporation. Roomba Combo, 
+Clean Base y Dirt Detect son marcas comerciales de iRobot Corporation. Wi-Fi y el logotipo de Wi-Fi 
+son marcas comerciales registradas de Wi-Fi Alliance. Apple y App Store son marcas comerciales de 
+Apple, Inc., registrada en los EE. UU. y otros países. Google Play es una marca comercial de Google 
+LLC. Bona es una marca comercial registrada de Bona AB Corp.
+
+ Guía del usuario de Roomba Combo™ j7+       15
+ES
+
+16        Para obtener más información, visita global.irobot.com
+ES
+WC# 4786242 vB
