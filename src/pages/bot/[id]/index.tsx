@@ -28,7 +28,14 @@ const BotPage: BlitzPage<BotPageProps> = ({ botName, dataId, botContext, id, rol
           <Chat name={botName} dataId={dataId} botContext={botContext} botRole={role} />
         </div>
         <div className="col-span-1">
-          <Button className="w-full flex justify-center">Edit</Button>
+          <Button
+            onClick={async () => {
+              await router.push(`/bot/${id}/edit`)
+            }}
+            className="w-full flex justify-center"
+          >
+            Edit
+          </Button>
           <Modal
             onConfirm={async () => {
               await deleteBotMutation({ botId: id })

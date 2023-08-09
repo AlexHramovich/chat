@@ -3,12 +3,19 @@ import Button, { BUTTON_APPEREANCE, ButtonProps } from "./Button"
 
 interface ModalProps {
   question: string
-  onConfirm: () => void
+  onConfirm?: (e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void
   buttonProps: ButtonProps
+  yesButtonProps?: ButtonProps
   isLoading?: boolean
 }
 
-const Modal: React.FC<ModalProps> = ({ question, onConfirm, buttonProps, isLoading }) => {
+const Modal: React.FC<ModalProps> = ({
+  question,
+  onConfirm,
+  buttonProps,
+  isLoading,
+  yesButtonProps,
+}) => {
   const [isModalOpen, setIsModalOpen] = React.useState(false)
 
   return (
@@ -67,12 +74,15 @@ const Modal: React.FC<ModalProps> = ({ question, onConfirm, buttonProps, isLoadi
                 </h3>
                 <div className="flex justify-between">
                   <Button
-                    onClick={() => {
+                    {...yesButtonProps}
+                    onClick={(e) => {
+                      if (onConfirm) {
+                        onConfirm(e)
+                      }
                       setIsModalOpen(false)
-                      onConfirm()
                     }}
-                    className="w-full mr-2 flex justify-center"
                     disabled={isLoading}
+                    className={`w-full mr-2 flex justify-center ${yesButtonProps?.className}`}
                   >
                     Yes
                   </Button>

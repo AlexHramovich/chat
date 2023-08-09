@@ -33,3 +33,13 @@ export const BotCreationSchema = z.object({
   dataUrl,
   dataPrefix,
 })
+
+export const BotEditSchema = z.object({
+  id: z.number(),
+  name,
+  context,
+  role,
+  dataType,
+  dataUrl,
+  dataPrefix: z.string().optional(),
+})

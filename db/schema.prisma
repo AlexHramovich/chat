@@ -55,6 +55,7 @@ model Data {
   botId     Int
   type      DataType
   url       String
+  prefix    String?
 
   dataIndex DataIndex[]
 }

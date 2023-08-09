@@ -6,6 +6,7 @@ const CreateBotDataSourceProps = z.object({
   botId: z.number(),
   type: z.string(),
   url: z.string(),
+  prefix: z.string().optional(),
 })
 
 export default async function createBotDataSource(
@@ -30,6 +31,7 @@ export default async function createBotDataSource(
       botId: data.botId,
       type: data.type as DataType,
       url: data.url,
+      prefix: data.prefix,
     },
   })
 
