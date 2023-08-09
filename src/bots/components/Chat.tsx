@@ -7,6 +7,8 @@ import { ChatCompletionRequestMessageRoleEnum } from "openai"
 interface ChatProps {
   name: string
   dataId: number
+  botContext: string
+  botRole: string
 }
 
 interface IMessage {
@@ -14,7 +16,7 @@ interface IMessage {
   isUsersMessage: boolean
 }
 
-const Chat: React.FC<ChatProps> = ({ name, dataId }) => {
+const Chat: React.FC<ChatProps> = ({ name, dataId, botContext, botRole }) => {
   const [message, setMessage] = React.useState<IMessage | null>(null)
   const [queryMessage, setQueryMessage] = React.useState<IMessage | null>(null)
   const [messages, setMessages] = React.useState<IMessage[]>([])
@@ -37,7 +39,13 @@ const Chat: React.FC<ChatProps> = ({ name, dataId }) => {
       messages: [
         {
           role: "system",
-          content: `You are a helpful assistant. You are trying to help the user solve his problems and answer his questions. Use this content to help ${context}`,
+          content:
+            botRole ||
+            `You are a helpful and politeful assistant. ${botRole}. Use this content to help ${context}`,
+        },
+        {
+          role: "system",
+          content: `Here is information about the company you work for. Information: "${botContext}". Use this information in my answers and act as an employee of this company.`,
         },
         {
           role: "system",
@@ -51,6 +59,7 @@ const Chat: React.FC<ChatProps> = ({ name, dataId }) => {
         })),
       ],
     })
+
     setIsMessageLoading(false)
 
     if (newBotMessage.data.choices[0]?.message?.content) {
@@ -87,7 +96,7 @@ const Chat: React.FC<ChatProps> = ({ name, dataId }) => {
   }
 
   return (
-    <div className="w-full max-w-lg bg-white p-6 py-0 rounded-xl m-8 flex flex-col relative max-h-[600px] overflow-auto">
+    <div className="w-full max-w-lg bg-white p-6 py-0 rounded-xl m-8 flex flex-col relative max-h-[600px] overflow-auto border-teal-700 border-solid border-2">
       <div className="text-xl font-bold sticky top-0 pt-8 pb-2 w-full bg-white z-10">{name}</div>
       <div className="flex-grow relative">
         <div className="flex-grow flex flex-col">

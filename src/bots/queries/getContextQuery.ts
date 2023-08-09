@@ -1,3 +1,4 @@
+import { Ctx } from "@blitzjs/next"
 import db from "db"
 import { createEmbedding } from "src/core/utils/createEmbedding"
 import * as z from "zod"
@@ -7,7 +8,10 @@ const GetContextArgs = z.object({
   dataId: z.number(),
 })
 
-export default async function getContext(input: z.infer<typeof GetContextArgs>) {
+export default async function getContext(input: z.infer<typeof GetContextArgs>, ctx: Ctx) {
+  // Require user to be logged in
+  ctx.session.$authorize()
+
   const data = GetContextArgs.parse(input)
 
   if (!data.searchTerm) {

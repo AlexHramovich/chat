@@ -13,7 +13,8 @@
     "test": "vitest run --passWithNoTests",
     "test:watch": "vitest",
     "prepare": "husky install",
-    "prisma:migrate": "blitz prisma migrate dev"
+    "prisma:migrate": "blitz prisma migrate dev",
+    "prisma:generate": "blitz prisma generate"
   },
   "prisma": {
     "schema": "db/schema.prisma"
