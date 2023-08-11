@@ -6,12 +6,11 @@ import Sitemapper from "sitemapper"
 import chunk from "lodash.chunk"
 import crawler from "crawler-request"
 import { splitText } from "src/core/utils/splitText"
-import createBotDataSource from "./createBotDataSource"
 import { createEmbedding } from "src/core/utils/createEmbedding"
 
 const ParseWebsiteSchema = z.object({
   siteMapUrl: z.string(),
-  prefix: z.string().optional(),
+  prefix: z.string().nullish(),
   dataId: z.number(),
 })
 
@@ -87,7 +86,7 @@ export default async function parseWebsite(data: z.infer<typeof ParseWebsiteSche
         }
       }
 
-      return data
+      return "success"
     } catch (error) {
       throw new Error(`Error creating bot data source. ${error.message}`)
     }

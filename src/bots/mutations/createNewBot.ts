@@ -6,6 +6,7 @@ import { BotCreationSchema } from "../schemas/botSchemas"
 import { BOT_LIMIT_ERROR } from "../constants/errors"
 import createBotDataSource from "./createBotDataSource"
 import parseWebsite from "./parseWebSite"
+import parsePDFDocument from "./parsePDFDocument"
 
 export default async function createBot(input: z.infer<typeof BotCreationSchema>, ctx: Ctx) {
   // Validate input - very important for security
@@ -46,6 +47,10 @@ export default async function createBot(input: z.infer<typeof BotCreationSchema>
       },
       ctx
     )
+  }
+
+  if (data.dataType === DataType.PDF) {
+    await parsePDFDocument({ pdfUrl: data.dataUrl, dataId: botData.id }, ctx)
   }
 
   return bot

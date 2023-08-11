@@ -23,7 +23,7 @@ const dataType = z.enum([DataType.PDF, DataType.WEB_SITE])
 
 const dataUrl = z.string().url()
 
-const dataPrefix = z.string().url().optional()
+const dataPrefix = z.string().url().nullish()
 
 export const BotCreationSchema = z.object({
   name,
@@ -41,5 +41,5 @@ export const BotEditSchema = z.object({
   role,
   dataType,
   dataUrl,
-  dataPrefix: z.string().optional(),
+  dataPrefix: z.string().nullish(),
 })

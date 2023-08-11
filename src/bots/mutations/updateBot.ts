@@ -6,6 +6,7 @@ import { BotEditSchema } from "../schemas/botSchemas"
 import { BOT_OWNER_ERROR } from "../constants/errors"
 import parseWebsite from "./parseWebSite"
 import createBotDataSource from "./createBotDataSource"
+import parsePDFDocument from "./parsePDFDocument"
 
 export default async function updateBot(input: z.infer<typeof BotEditSchema>, ctx: Ctx) {
   // Validate input - very important for security
@@ -55,6 +56,10 @@ export default async function updateBot(input: z.infer<typeof BotEditSchema>, ct
       },
       ctx
     )
+  }
+
+  if (data.dataType === DataType.PDF) {
+    await parsePDFDocument({ pdfUrl: data.dataUrl, dataId: botData.id }, ctx)
   }
 
   return bot
