@@ -29,37 +29,44 @@ export default async function updateBot(input: z.infer<typeof BotEditSchema>, ct
       generalContext: data.context,
       role: data.role,
     },
+    include: { data: true },
   })
 
-  await db.data.deleteMany({
-    where: {
-      botId: bot.id,
-    },
-  })
+  if (
+    bot.data[0]?.prefix !== data.dataPrefix ||
+    bot.data[0]?.url !== data.dataUrl ||
+    bot.data[0]?.type !== data.dataType
+  ) {
+    await db.data.deleteMany({
+      where: {
+        botId: bot.id,
+      },
+    })
 
-  const botData = await createBotDataSource(
-    {
-      botId: bot.id,
-      type: data.dataType,
-      url: data.dataUrl,
-      prefix: data.dataPrefix,
-    },
-    ctx
-  )
-
-  if (data.dataType === DataType.WEB_SITE) {
-    await parseWebsite(
+    const botData = await createBotDataSource(
       {
-        siteMapUrl: data.dataUrl,
+        botId: bot.id,
+        type: data.dataType,
+        url: data.dataUrl,
         prefix: data.dataPrefix,
-        dataId: botData.id,
       },
       ctx
     )
-  }
 
-  if (data.dataType === DataType.PDF) {
-    await parsePDFDocument({ pdfUrl: data.dataUrl, dataId: botData.id }, ctx)
+    if (data.dataType === DataType.WEB_SITE) {
+      await parseWebsite(
+        {
+          siteMapUrl: data.dataUrl,
+          prefix: data.dataPrefix,
+          dataId: botData.id,
+        },
+        ctx
+      )
+    }
+
+    if (data.dataType === DataType.PDF) {
+      await parsePDFDocument({ pdfUrl: data.dataUrl, dataId: botData.id }, ctx)
+    }
   }
 
   return bot

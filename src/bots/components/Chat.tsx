@@ -3,17 +3,15 @@ import React, { useCallback, useEffect } from "react"
 import getContext from "../queries/getContextQuery"
 import { openAi } from "src/core/integrations/openAi"
 import { ChatCompletionRequestMessageRoleEnum } from "openai"
+import contactViaEmailFunction from "../chatFunctions/contactViaEmail"
+import { runChatFunction } from "../chatFunctions"
+import { IMessage, getBotMessage } from "../utils/getBotMessage"
 
 interface ChatProps {
   name: string
   dataId: number
   botContext: string
   botRole: string
-}
-
-interface IMessage {
-  text: string
-  isUsersMessage: boolean
 }
 
 const Chat: React.FC<ChatProps> = ({ name, dataId, botContext, botRole }) => {
@@ -33,51 +31,61 @@ const Chat: React.FC<ChatProps> = ({ name, dataId, botContext, botRole }) => {
     }
 
     setIsMessageLoading(true)
-    const newBotMessage = await openAi.createChatCompletion({
-      model: "gpt-3.5-turbo",
-      temperature: 0.5,
-      messages: [
-        {
-          role: "system",
-          content:
-            botRole ||
-            `You are a helpful and politeful assistant. ${botRole}. Use this content to help ${context}`,
-        },
-        {
-          role: "system",
-          content: `Here is information about the company you work for. Information: "${botContext}". Use this information in my answers and act as an employee of this company.`,
-        },
-        {
-          role: "system",
-          content: `Don't reply with long answers. Keep your answers short and to the point.`,
-        },
-        ...messages.map((data) => ({
-          role: (data.isUsersMessage
-            ? "user"
-            : "assistant") as ChatCompletionRequestMessageRoleEnum,
-          content: data.text,
-        })),
-      ],
+    const newBotMessage = await getBotMessage({
+      botRole,
+      context,
+      botContext,
+      messages,
     })
+
+    let newMessages = [...messages]
+    let botMessageAfterFunction
 
     setIsMessageLoading(false)
 
-    if (newBotMessage.data.choices[0]?.message?.content) {
+    const functionCallData = newBotMessage.data.choices[0]?.message?.function_call
+
+    if (functionCallData?.name) {
+      const functionMessage = runChatFunction(functionCallData)
+      if (functionMessage) {
+        newMessages.push({
+          text: functionMessage.message.content,
+          role: functionMessage.message.role,
+          isUsersMessage: false,
+          functionName: functionMessage.type,
+        })
+
+        botMessageAfterFunction = await getBotMessage({
+          botRole,
+          context,
+          botContext,
+          messages: newMessages,
+        })
+      }
+    }
+
+    const currentMessage = botMessageAfterFunction || newBotMessage
+
+    if (currentMessage.data.choices[0]?.message?.content) {
       setMessages([
-        ...messages,
+        ...newMessages,
         {
-          text: newBotMessage.data.choices[0]?.message?.content,
+          text: currentMessage.data.choices[0]?.message?.content,
           isUsersMessage: false,
         },
       ])
-    } else {
-      setMessages([
-        ...messages,
-        {
-          text: "Sorry, I did not understand that. Please try again.",
-          isUsersMessage: false,
-        },
-      ])
+    }
+
+    if (!currentMessage.data.choices[0]?.message?.content && !functionCallData?.name) {
+      {
+        setMessages([
+          ...newMessages,
+          {
+            text: "Sorry, I did not understand that. Please try again.",
+            isUsersMessage: false,
+          },
+        ])
+      }
     }
   }, [messages, context])
 
@@ -101,10 +109,25 @@ const Chat: React.FC<ChatProps> = ({ name, dataId, botContext, botRole }) => {
       <div className="flex-grow relative">
         <div className="flex-grow flex flex-col">
           {messages.map((message, i) => {
+            if (message.role === "function") {
+              return (
+                <div
+                  key={i}
+                  data-isusersmessage={false}
+                  className="flex justify-start data-[isUsersMessage=false]:justify-end"
+                >
+                  <div
+                    className="py-2 px-4 bg-slate-50 rounded-xl w-fit max-w-[90%] mt-4 overflow-auto max-h-full"
+                    dangerouslySetInnerHTML={{ __html: message.text }}
+                  />
+                </div>
+              )
+            }
+
             return (
               <div
                 key={i}
-                data-isUsersMessage={message.isUsersMessage}
+                data-isusersmessage={message.isUsersMessage}
                 className="flex justify-start data-[isUsersMessage=false]:justify-end"
               >
                 <div className="py-2 px-4 bg-slate-50 rounded-xl w-fit max-w-[90%] mt-4 overflow-auto max-h-full">
@@ -115,7 +138,7 @@ const Chat: React.FC<ChatProps> = ({ name, dataId, botContext, botRole }) => {
           })}
           {isMessageLoading && (
             <div
-              data-isUsersMessage={false}
+              data-isusersmessage={false}
               className="flex justify-start data-[isUsersMessage=false]:justify-end"
             >
               <div className="py-2 px-4 bg-slate-50 rounded-xl w-fit max-w-[90%] mt-4 overflow-auto max-h-full">
